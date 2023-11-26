@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "BMtKwJ2BlUNXxqPEZ5KfuttXVdzrOu9NLwZnNbuzLoM=",
+  "Source": "RepositorioApp.Api",
+  "BasePath": "_content/RepositorioApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RepositorioApp.Api\\wwwroot",
+      "Source": "RepositorioApp.Api",
+      "ContentRoot": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Api\\wwwroot\\",
+      "BasePath": "_content/RepositorioApp.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Api\\wwwroot\\swagger-ui\\custom-swagger-ui.css",
+      "SourceId": "RepositorioApp.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Api\\wwwroot\\",
+      "BasePath": "_content/RepositorioApp.Api",
+      "RelativePath": "swagger-ui/custom-swagger-ui.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\custom-swagger-ui.css"
+    }
+  ]
+}

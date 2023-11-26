@@ -1,0 +1,659 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Infra\\BitCode.Infra.csproj": {}
+  },
+  "projects": {
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Correios.Consulta.Cep\\BitCode.Correios.Consulta.Cep.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Correios.Consulta.Cep\\BitCode.Correios.Consulta.Cep.csproj",
+        "projectName": "BitCode.Correios.Consulta.Cep",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Correios.Consulta.Cep\\BitCode.Correios.Consulta.Cep.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Correios.Consulta.Cep\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            },
+            "System.Private.ServiceModel": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Extensions\\BitCode.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Extensions\\BitCode.Extensions.csproj",
+        "projectName": "BitCode.Extensions",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Extensions\\BitCode.Extensions.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "MimeTypeMapOfficial": {
+              "target": "Package",
+              "version": "[1.0.17, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Images\\BitCode.Images.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Images\\BitCode.Images.csproj",
+        "projectName": "BitCode.Images",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Images\\BitCode.Images.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Images\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Infra\\BitCode.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Infra\\BitCode.Infra.csproj",
+        "projectName": "BitCode.Infra",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Infra\\BitCode.Infra.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Correios.Consulta.Cep\\BitCode.Correios.Consulta.Cep.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Correios.Consulta.Cep\\BitCode.Correios.Consulta.Cep.csproj"
+              },
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.CrossCutting\\RepositorioApp.CrossCutting.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.CrossCutting\\RepositorioApp.CrossCutting.csproj"
+              },
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Domain\\RepositorioApp.Domain.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Domain\\RepositorioApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.96.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Razor.Templating.Core": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Jwt\\BitCode.Jwt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Jwt\\BitCode.Jwt.csproj",
+        "projectName": "BitCode.Jwt",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Jwt\\BitCode.Jwt.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Jwt\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.IdentityModel.Protocols": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "Microsoft.IdentityModel.Protocols.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Mail\\BitCode.Mail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Mail\\BitCode.Mail.csproj",
+        "projectName": "BitCode.Mail",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Mail\\BitCode.Mail.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Mail\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Utilities\\BitCode.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Utilities\\BitCode.Utilities.csproj",
+        "projectName": "BitCode.Utilities",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Utilities\\BitCode.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Utf8Json": {
+              "target": "Package",
+              "version": "[1.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.CrossCutting\\RepositorioApp.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.CrossCutting\\RepositorioApp.CrossCutting.csproj",
+        "projectName": "RepositorioApp.CrossCutting",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.CrossCutting\\RepositorioApp.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Extensions\\BitCode.Extensions.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Extensions\\BitCode.Extensions.csproj"
+              },
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Images\\BitCode.Images.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Images\\BitCode.Images.csproj"
+              },
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Jwt\\BitCode.Jwt.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Jwt\\BitCode.Jwt.csproj"
+              },
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Mail\\BitCode.Mail.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Mail\\BitCode.Mail.csproj"
+              },
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Utilities\\BitCode.Utilities.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\BitCode.Utilities\\BitCode.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.0-rc1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Domain\\RepositorioApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Domain\\RepositorioApp.Domain.csproj",
+        "projectName": "RepositorioApp.Domain",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Domain\\RepositorioApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.CrossCutting\\RepositorioApp.CrossCutting.csproj": {
+                "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.CrossCutting\\RepositorioApp.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

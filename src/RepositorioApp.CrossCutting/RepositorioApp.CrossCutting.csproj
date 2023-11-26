@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <NoWarn>$(NoWarn);1591</NoWarn>
+    </PropertyGroup>
+
+    <ItemGroup>
+
+        <PackageReference Include="FluentValidation" Version="11.2.2" />
+        <PackageReference Include="Hangfire.Core" Version="1.8.0-rc1" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\RepositorioApp.Extensions\RepositorioApp.Extensions.csproj" />
+        <ProjectReference Include="..\RepositorioApp.Images\RepositorioApp.Images.csproj" />
+        <ProjectReference Include="..\RepositorioApp.Jwt\RepositorioApp.Jwt.csproj" />
+        <ProjectReference Include="..\RepositorioApp.Mail\RepositorioApp.Mail.csproj" />
+        <ProjectReference Include="..\RepositorioApp.Utilities\RepositorioApp.Utilities.csproj" />
+    </ItemGroup>
+
+</Project>

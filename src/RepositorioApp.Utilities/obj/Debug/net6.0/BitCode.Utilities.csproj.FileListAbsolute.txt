@@ -1,0 +1,14 @@
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/bin/Debug/net6.0/BitCode.Utilities.deps.json
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/bin/Debug/net6.0/BitCode.Utilities.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/bin/Debug/net6.0/BitCode.Utilities.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/bin/Debug/net6.0/BitCode.Utilities.xml
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/BitCode.Utilities.csproj.AssemblyReference.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/BitCode.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/BitCode.Utilities.AssemblyInfoInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/BitCode.Utilities.AssemblyInfo.cs
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/BitCode.Utilities.csproj.CoreCompileInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/BitCode.Utilities.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/refint/BitCode.Utilities.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/BitCode.Utilities.xml
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/BitCode.Utilities.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Utilities/obj/Debug/net6.0/ref/BitCode.Utilities.dll

@@ -1,0 +1,17 @@
+.swagger-ui .topbar {
+    background-color: #0597d5;
+!important;
+}
+
+.topbar-wrapper > a > img {
+    /*content: url('../assets/images/logo.png') !important;*/
+}
+
+.topbar-wrapper > a:after {
+    /*content:  url('/assets/images/logo.png') !important;*/
+    content: 'RepositorioApp' !important;
+}
+
+.swagger-ui .topbar .download-url-wrapper .select-label select {
+    border: 2px solid #000 !important;
+}

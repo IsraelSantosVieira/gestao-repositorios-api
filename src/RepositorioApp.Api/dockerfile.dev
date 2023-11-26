@@ -1,0 +1,27 @@
+FROM mcr.microsoft.com/dotnet/sdk:5.0-focal as build
+
+ARG project_path="./src/RepositorioApp.Api"
+
+WORKDIR /build
+
+COPY ./src/*/*.csproj ./
+
+RUN for file in $(ls *.csproj); do mkdir -p src/${file%.*}/ && mv $file ./src/${file%.*}/; done
+
+COPY ./nuget.config ./
+
+RUN dotnet restore $project_path --configfile nuget.config --ignore-failed-sources
+
+COPY . ./
+
+RUN dotnet publish $project_path -c Release -o /build/dist --no-restore
+
+# Run app
+
+FROM mcr.microsoft.com/dotnet/aspnet:5.0-focal
+
+EXPOSE 5000
+
+COPY --from=build /build/dist .
+
+ENTRYPOINT ["dotnet", "RepositorioApp.Api.dll"]

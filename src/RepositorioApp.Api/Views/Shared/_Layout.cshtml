@@ -1,0 +1,78 @@
+@using RepositorioApp.CrossCutting.Config
+@using RepositorioApp.CrossCutting.Constants
+@inject AppConfig AppConfig
+<!doctype html>
+@{
+    var logoUrl = $"{AppConfig.BaseUrl}/assets/images/logo.png";
+}
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8"/>
+    <title>@ViewBag.Title</title>
+</head>
+<body bgcolor="#ECECEC">
+<center>
+    <table cellpadding="0" cellspacing="0" width="600" style="background-color: white">
+
+        <!-- Head -->
+        <tr>
+            <td bgcolor="@AppConstants.Emails.Style.PrimaryColor" height="15"></td>
+        </tr>
+        <tr>
+            <td bgcolor="@AppConstants.Emails.Style.PrimaryColor" style="@AppConstants.Emails.Style.PaddingStyle">
+                <font color="@AppConstants.Emails.Style.PrimaryColor" face="Helvetica, Arial, sans serif">
+                    <img width="150" src="@logoUrl">
+                </font>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="@AppConstants.Emails.Style.PrimaryColor" height="15"></td>
+        </tr>
+
+        <!-- End Head -->
+
+        <!-- Subject -->
+        <tr>
+            <td bgcolor="@AppConstants.Emails.Style.WhiteColor" height="15"></td>
+        </tr>
+        <tr>
+            <td bgcolor="@AppConstants.Emails.Style.WhiteColor" style="@AppConstants.Emails.Style.PaddingStyle">
+                <font color="#757575" face="@AppConstants.Emails.Style.Font">
+                    <b>@ViewBag.Subject</b>
+                </font>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="@AppConstants.Emails.Style.WhiteColor" height="15"></td>
+        </tr>
+
+        <!-- End Subject -->
+
+        <!-- Body -->
+
+        <tr>
+
+            <td bgcolor="@AppConstants.Emails.Style.WhiteColor" style="@AppConstants.Emails.Style.PaddingStyle">
+                <font color="#757575" face="@AppConstants.Emails.Style.Font">
+                    @RenderBody()
+                </font>
+            </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="@AppConstants.Emails.Style.WhiteColor" height="130"></td>
+        </tr>
+
+        <!-- End Body -->
+        <!-- Footer -->
+        <tr>
+            <td bgcolor="@AppConstants.Emails.Style.PrimaryColor" height="100">
+            </td>
+        </tr>
+        <!-- End Footer -->
+
+    </table>
+</center>
+</body>
+</html>

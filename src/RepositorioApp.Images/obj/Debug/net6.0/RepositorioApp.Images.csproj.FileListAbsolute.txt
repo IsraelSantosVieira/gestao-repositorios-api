@@ -1,0 +1,14 @@
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\bin\Debug\net6.0\RepositorioApp.Images.deps.json
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\bin\Debug\net6.0\RepositorioApp.Images.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\bin\Debug\net6.0\RepositorioApp.Images.pdb
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\bin\Debug\net6.0\RepositorioApp.Images.xml
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\RepositorioApp.Images.csproj.AssemblyReference.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\RepositorioApp.Images.GeneratedMSBuildEditorConfig.editorconfig
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\RepositorioApp.Images.AssemblyInfoInputs.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\RepositorioApp.Images.AssemblyInfo.cs
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\RepositorioApp.Images.csproj.CoreCompileInputs.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\RepositorioApp.Images.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\refint\RepositorioApp.Images.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\RepositorioApp.Images.xml
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\RepositorioApp.Images.pdb
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Images\obj\Debug\net6.0\ref\RepositorioApp.Images.dll

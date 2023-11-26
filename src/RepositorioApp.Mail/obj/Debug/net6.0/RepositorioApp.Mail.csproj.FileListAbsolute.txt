@@ -1,0 +1,14 @@
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\bin\Debug\net6.0\RepositorioApp.Mail.deps.json
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\bin\Debug\net6.0\RepositorioApp.Mail.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\bin\Debug\net6.0\RepositorioApp.Mail.pdb
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\bin\Debug\net6.0\RepositorioApp.Mail.xml
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\RepositorioApp.Mail.csproj.AssemblyReference.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\RepositorioApp.Mail.GeneratedMSBuildEditorConfig.editorconfig
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\RepositorioApp.Mail.AssemblyInfoInputs.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\RepositorioApp.Mail.AssemblyInfo.cs
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\RepositorioApp.Mail.csproj.CoreCompileInputs.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\RepositorioApp.Mail.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\refint\RepositorioApp.Mail.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\RepositorioApp.Mail.xml
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\RepositorioApp.Mail.pdb
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Mail\obj\Debug\net6.0\ref\RepositorioApp.Mail.dll

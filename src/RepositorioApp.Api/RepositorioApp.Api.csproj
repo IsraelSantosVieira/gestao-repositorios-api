@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <NoWarn>$(NoWarn);1591</NoWarn>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+        <UserSecretsId>repositorioapp</UserSecretsId>
+        <Version>1.0.0</Version>
+        <PackageId>RepositorioApp.Api</PackageId>
+        <Authors>RepositorioApp.Api</Authors>
+        <Company>RepositorioApp.Api</Company>
+        <Product>RepositorioApp.Api</Product>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+        <DocumentationFile>obj\Debug/net6.0/RepositorioApp.Api.xml</DocumentationFile>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+        <DocumentationFile>obj\Release/net6.0/RepositorioApp.Api.xml</DocumentationFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AspNetCoreRateLimit" Version="5.0.0" />
+        <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+        <PackageReference Include="Hangfire.PostgreSql" Version="1.9.9" />
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.11" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.11" />
+        <PackageReference Include="Hangfire.AspNetCore" Version="1.8.0-rc1" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.4.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="6.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\RepositorioApp.Data\RepositorioApp.Data.csproj" />
+        <ProjectReference Include="..\RepositorioApp.Domain\RepositorioApp.Domain.csproj" />
+        <ProjectReference Include="..\RepositorioApp.Infra\RepositorioApp.Infra.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Folder Include="wwwroot" />
+        <Folder Include="wwwroot\assets\images\" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <NoWarn>$(NoWarn);1591</NoWarn>
+    </PropertyGroup>
+
+    
+
+    <ItemGroup>
+        <PackageReference Include="BuiltCode.Correios.Consulta.Cep" Version="1.4.0" />
+        <PackageReference Include="FirebaseAdmin" Version="2.3.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+        <PackageReference Include="Razor.Templating.Core" Version="1.7.1" />
+        <PackageReference Include="Azure.Storage.Blobs" Version="12.14.1" />
+                <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
+    </ItemGroup>
+
+    
+
+    <ItemGroup>
+      <ProjectReference Include="..\QueroTruck.CrossCutting\QueroTruck.CrossCutting.csproj" />
+      <ProjectReference Include="..\QueroTruck.Domain\QueroTruck.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

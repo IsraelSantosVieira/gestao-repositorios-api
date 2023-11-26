@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BitCode.Domain</name>
+    </assembly>
+    <members>
+        <member name="P:BitCode.Domain.AppServices.Users.Commands.AuthenticateUser.GrantType">
+            <summary>
+                password or refresh_token
+            </summary>
+        </member>
+        <member name="P:BitCode.Domain.AppServices.Users.Commands.AuthenticateUser.Password">
+            <summary>
+                Required when grant type is password
+            </summary>
+        </member>
+        <member name="P:BitCode.Domain.AppServices.Users.Commands.AuthenticateUser.RefreshToken">
+            <summary>
+                Required when grant type is refresh_token
+            </summary>
+        </member>
+        <member name="P:BitCode.Domain.AppServices.Users.Commands.AuthenticateUser.Device">
+            <summary>
+                Required em Scope is MobileApp and GrantType is password
+            </summary>
+        </member>
+        <member name="P:BitCode.Domain.ValueObjects.DeviceInfo.Id">
+            <summary>
+                Id
+            </summary>
+        </member>
+        <member name="P:BitCode.Domain.ValueObjects.DeviceInfo.Token">
+            <summary>
+                Token
+            </summary>
+        </member>
+        <member name="P:BitCode.Domain.ValueObjects.Phone.AreaCode">
+            <summary>
+                Area Code
+            </summary>
+        </member>
+        <member name="P:BitCode.Domain.ValueObjects.Phone.Number">
+            <summary>
+                Number
+            </summary>
+        </member>
+    </members>
+</doc>

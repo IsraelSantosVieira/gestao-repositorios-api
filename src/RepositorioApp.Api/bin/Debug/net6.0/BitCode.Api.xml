@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BitCode.Api</name>
+    </assembly>
+    <members>
+        <member name="M:BitCode.Api.Controllers.Identity.V1.AccountController.ResendActivationCode(BitCode.Domain.AppServices.Users.Contracts.IManagerUserAppService,BitCode.Domain.AppServices.Users.Commands.ActivationCode)">
+            <summary>
+                Reenvia o código de ativação
+            </summary>
+            <param name="appService"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BitCode.Api.Controllers.Identity.V1.AccountController.ProceedActivateCode(BitCode.Domain.AppServices.Users.Contracts.IManagerUserAppService,BitCode.Domain.AppServices.Users.Commands.ActivationCode)">
+            <summary>
+                Continua a ativação da conta
+            </summary>
+            <param name="appService"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BitCode.Api.Controllers.Identity.V1.ConnectController.Auth(BitCode.Domain.AppServices.Users.Commands.AuthenticateUser)">
+            <summary>
+                Obter access token
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BitCode.Api.Controllers.Public.V1.ConnectController.Integration(BitCode.Domain.AppServices.Users.Commands.AuthenticateUser)">
+            <summary>
+                Obter access token para integração com outros sistemas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BitCode.Api._Config.Binders.DateTimeModelBinderProvider.GetBinder(Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderProviderContext)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

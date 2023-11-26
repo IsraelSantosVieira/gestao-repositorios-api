@@ -1,0 +1,12 @@
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/bin/Debug/net6.0/BitCode.Correios.Consulta.Cep.deps.json
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/bin/Debug/net6.0/BitCode.Correios.Consulta.Cep.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/bin/Debug/net6.0/BitCode.Correios.Consulta.Cep.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/BitCode.Correios.Consulta.Cep.csproj.AssemblyReference.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/BitCode.Correios.Consulta.Cep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/BitCode.Correios.Consulta.Cep.AssemblyInfoInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/BitCode.Correios.Consulta.Cep.AssemblyInfo.cs
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/BitCode.Correios.Consulta.Cep.csproj.CoreCompileInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/BitCode.Correios.Consulta.Cep.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/refint/BitCode.Correios.Consulta.Cep.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/BitCode.Correios.Consulta.Cep.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Correios.Consulta.Cep/obj/Debug/net6.0/ref/BitCode.Correios.Consulta.Cep.dll

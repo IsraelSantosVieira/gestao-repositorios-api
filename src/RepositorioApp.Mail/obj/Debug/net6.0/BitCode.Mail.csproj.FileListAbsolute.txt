@@ -1,0 +1,14 @@
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/bin/Debug/net6.0/BitCode.Mail.deps.json
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/bin/Debug/net6.0/BitCode.Mail.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/bin/Debug/net6.0/BitCode.Mail.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/bin/Debug/net6.0/BitCode.Mail.xml
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/BitCode.Mail.csproj.AssemblyReference.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/BitCode.Mail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/BitCode.Mail.AssemblyInfoInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/BitCode.Mail.AssemblyInfo.cs
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/BitCode.Mail.csproj.CoreCompileInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/BitCode.Mail.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/refint/BitCode.Mail.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/BitCode.Mail.xml
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/BitCode.Mail.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Mail/obj/Debug/net6.0/ref/BitCode.Mail.dll

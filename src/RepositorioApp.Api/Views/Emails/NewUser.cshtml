@@ -1,0 +1,37 @@
+@using RepositorioApp.CrossCutting.Config
+@using RepositorioApp.CrossCutting.Constants
+@model RepositorioApp.Domain.ViewsModels.Emails.NewUserEmailVm
+@inject AppConfig AppConfig
+@{
+    ViewBag.Title = Model.Subject;
+    ViewBag.Subject = Model.Subject;
+    Layout = "_Layout";
+}
+
+<p>
+    Olá @Model.Name,
+</p>
+<p>
+    <span>E-mail: @Model.Email</span><br/>
+    <span>Senha: @Model.Password</span>
+</p>
+<p>
+    <div align="center">
+        <!--[if mso]>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="@AppConfig.AppUrl" style="height:53px;width:200px;" arcsize="8%" stroke="f" fillcolor="@AppConstants.Emails.Style.PrimaryColor">
+            <w:anchorlock/>
+            <center>
+        <![endif]-->
+        <a href="@AppConfig.AppUrl"
+           style="cursor: pointer; background-color:@AppConstants.Emails.Style.PrimaryColor;border-radius:4px;color:@AppConstants.Emails.Style.WhiteColor;display:inline-block;font-family:@AppConstants.Emails.Style.Font;font-size:13px;font-weight:bold;line-height:53px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;">
+            Acessar @AppConstants.ApplicationName
+        </a>
+        <!--[if mso]>
+            </center>
+            </v:roundrect>
+        <![endif]-->
+    </div>
+</p>
+<p>
+    Por motivos de segurança recomendamos que você altere sua senha logo após seu primeiro acesso no app de coleta.
+</p>

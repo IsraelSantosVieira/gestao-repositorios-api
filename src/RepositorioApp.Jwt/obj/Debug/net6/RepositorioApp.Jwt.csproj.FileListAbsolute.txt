@@ -1,0 +1,14 @@
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\bin\Debug\net6\RepositorioApp.Jwt.deps.json
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\bin\Debug\net6\RepositorioApp.Jwt.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\bin\Debug\net6\RepositorioApp.Jwt.pdb
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\bin\Debug\net6\RepositorioApp.Jwt.xml
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\RepositorioApp.Jwt.csproj.AssemblyReference.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\RepositorioApp.Jwt.GeneratedMSBuildEditorConfig.editorconfig
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\RepositorioApp.Jwt.AssemblyInfoInputs.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\RepositorioApp.Jwt.AssemblyInfo.cs
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\RepositorioApp.Jwt.csproj.CoreCompileInputs.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\RepositorioApp.Jwt.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\refint\RepositorioApp.Jwt.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\RepositorioApp.Jwt.xml
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\RepositorioApp.Jwt.pdb
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Jwt\obj\Debug\net6\ref\RepositorioApp.Jwt.dll

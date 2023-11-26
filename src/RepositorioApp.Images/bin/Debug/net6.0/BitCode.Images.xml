@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BitCode.Images</name>
+    </assembly>
+    <members>
+        <member name="M:BitCode.Images.ImageUtils.Compress(System.Byte[],BitCode.Images.ECompressionLevel,System.Threading.CancellationToken)">
+            <summary>
+                Compress an png or jpeg image
+            </summary>
+            <param name="buffer">Byte array of image that will be compressed</param>
+            <param name="level" cref="T:BitCode.Images.ECompressionLevel">Compresseion level to be applied</param>
+            <param name="cancellationToken">CancellationToken</param>
+            <returns></returns>
+        </member>
+        <member name="M:BitCode.Images.ImageUtils.GenerateImageWithWatherMark(System.Byte[],System.Byte[],System.Threading.CancellationToken)">
+            <summary>
+                Generate image with wather mark
+            </summary>
+            <param name="sourceImage">Byte array of image that will be applied water mark</param>
+            <param name="waterMarkImage">Byte array of image water mark to be applied</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BitCode.Images.ImageUtils.GenarateThumbnail(System.Byte[],System.Threading.CancellationToken)">
+            <summary>
+                Generate thumbnail of an image
+            </summary>
+            <param name="buffer">Byte array of image to generate thumbnail image</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BitCode.Images.ImageUtils.ResizeImageFromBuffer(System.Byte[],System.Double,System.Threading.CancellationToken)">
+            <summary>
+                Resizes an image for the purpose of generating a lower quality image.
+                On Linux and Mac libgdiplus should be installed:
+                Linux Debian based distros: $ sudo apt install libgdiplus
+                Mac: $ brew install mono-libgdiplus
+            </summary>
+            <param name="buffer">Byte array of image that will be resized</param>
+            <param name="scaleFactor">Resize factor in %, eg: to get 30% of original image use 0.3D</param>
+            <param name="cancellationToken"></param>
+            <returns>Resized image in byte array</returns>
+        </member>
+    </members>
+</doc>

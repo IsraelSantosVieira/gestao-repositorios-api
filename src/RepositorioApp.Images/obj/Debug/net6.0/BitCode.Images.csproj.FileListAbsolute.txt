@@ -1,0 +1,14 @@
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/bin/Debug/net6.0/BitCode.Images.deps.json
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/bin/Debug/net6.0/BitCode.Images.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/bin/Debug/net6.0/BitCode.Images.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/bin/Debug/net6.0/BitCode.Images.xml
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/BitCode.Images.csproj.AssemblyReference.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/BitCode.Images.GeneratedMSBuildEditorConfig.editorconfig
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/BitCode.Images.AssemblyInfoInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/BitCode.Images.AssemblyInfo.cs
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/BitCode.Images.csproj.CoreCompileInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/BitCode.Images.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/refint/BitCode.Images.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/BitCode.Images.xml
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/BitCode.Images.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Images/obj/Debug/net6.0/ref/BitCode.Images.dll

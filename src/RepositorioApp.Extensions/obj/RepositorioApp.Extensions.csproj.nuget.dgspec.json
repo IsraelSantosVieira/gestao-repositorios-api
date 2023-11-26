@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Extensions\\RepositorioApp.Extensions.csproj": {}
+  },
+  "projects": {
+    "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Extensions\\RepositorioApp.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Extensions\\RepositorioApp.Extensions.csproj",
+        "projectName": "RepositorioApp.Extensions",
+        "projectPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Extensions\\RepositorioApp.Extensions.csproj",
+        "packagesPath": "C:\\Users\\Israe\\.nuget\\packages\\",
+        "outputPath": "D:\\BitCode\\RepositoriosApp\\gestao-repositorios-api\\src\\RepositorioApp.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Israe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "MimeTypeMapOfficial": {
+              "target": "Package",
+              "version": "[1.0.17, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

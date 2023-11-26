@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BitCode.Jwt</name>
+    </assembly>
+    <members>
+        <member name="M:BitCode.Jwt.JwksRetriever.GetAsync(System.String,Microsoft.IdentityModel.Protocols.IDocumentRetriever,System.Threading.CancellationToken)">
+            <summary>
+                Retrieves a populated <see cref="T:Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectConfiguration" /> given an address and an
+                <see cref="T:Microsoft.IdentityModel.Protocols.IDocumentRetriever" />.
+            </summary>
+            <param name="address">address of the jwks uri.</param>
+            <param name="retriever">the <see cref="T:Microsoft.IdentityModel.Protocols.IDocumentRetriever" /> to use to read the jwks</param>
+            <param name="cancel"><see cref="T:System.Threading.CancellationToken" />.</param>
+            <returns>A populated <see cref="T:Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectConfiguration" /> instance.</returns>
+        </member>
+    </members>
+</doc>

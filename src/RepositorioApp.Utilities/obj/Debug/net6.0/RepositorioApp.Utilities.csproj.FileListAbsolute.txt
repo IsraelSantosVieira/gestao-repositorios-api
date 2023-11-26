@@ -1,0 +1,14 @@
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\bin\Debug\net6.0\RepositorioApp.Utilities.deps.json
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\bin\Debug\net6.0\RepositorioApp.Utilities.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\bin\Debug\net6.0\RepositorioApp.Utilities.pdb
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\bin\Debug\net6.0\RepositorioApp.Utilities.xml
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\RepositorioApp.Utilities.csproj.AssemblyReference.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\RepositorioApp.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\RepositorioApp.Utilities.AssemblyInfoInputs.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\RepositorioApp.Utilities.AssemblyInfo.cs
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\RepositorioApp.Utilities.csproj.CoreCompileInputs.cache
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\RepositorioApp.Utilities.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\refint\RepositorioApp.Utilities.dll
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\RepositorioApp.Utilities.xml
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\RepositorioApp.Utilities.pdb
+D:\BitCode\RepositoriosApp\gestao-repositorios-api\src\RepositorioApp.Utilities\obj\Debug\net6.0\ref\RepositorioApp.Utilities.dll

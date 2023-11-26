@@ -1,0 +1,14 @@
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/bin/Debug/net6/BitCode.Jwt.deps.json
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/bin/Debug/net6/BitCode.Jwt.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/bin/Debug/net6/BitCode.Jwt.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/bin/Debug/net6/BitCode.Jwt.xml
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/BitCode.Jwt.csproj.AssemblyReference.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/BitCode.Jwt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/BitCode.Jwt.AssemblyInfoInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/BitCode.Jwt.AssemblyInfo.cs
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/BitCode.Jwt.csproj.CoreCompileInputs.cache
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/BitCode.Jwt.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/refint/BitCode.Jwt.dll
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/BitCode.Jwt.xml
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/BitCode.Jwt.pdb
+/Users/israel/Documents/BitCode/BitCodeAPI/src/BitCode.Jwt/obj/Debug/net6/ref/BitCode.Jwt.dll

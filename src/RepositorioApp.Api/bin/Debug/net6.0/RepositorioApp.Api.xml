@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RepositorioApp.Api</name>
+    </assembly>
+    <members>
+        <member name="M:RepositorioApp.Api.Controllers.Identity.V1.AccountController.ResendActivationCode(RepositorioApp.Domain.AppServices.Users.Contracts.IManagerUserAppService,RepositorioApp.Domain.AppServices.Users.Commands.ActivationCodeCmd)">
+            <summary>
+                Reenvia o código de ativação
+            </summary>
+            <param name="appService"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RepositorioApp.Api.Controllers.Identity.V1.AccountController.ProceedActivateCode(RepositorioApp.Domain.AppServices.Users.Contracts.IManagerUserAppService,RepositorioApp.Domain.AppServices.Users.Commands.ActivationCodeCmd)">
+            <summary>
+                Continua a ativação da conta
+            </summary>
+            <param name="appService"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RepositorioApp.Api.Controllers.Identity.V1.ConnectController.Auth(RepositorioApp.Domain.AppServices.Users.Commands.AuthenticateUserCmd)">
+            <summary>
+                Obter access token
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RepositorioApp.Api.Controllers.Public.V1.ConnectController.Integration(RepositorioApp.Domain.AppServices.Users.Commands.AuthenticateUserCmd)">
+            <summary>
+                Obter access token para integração com outros sistemas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RepositorioApp.Api._Config.Binders.DateTimeModelBinderProvider.GetBinder(Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderProviderContext)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RepositorioApp.Domain</name>
+    </assembly>
+    <members>
+        <member name="P:RepositorioApp.Domain.AppServices.Users.Commands.AuthenticateUserCmd.GrantType">
+            <summary>
+                password or refresh_token
+            </summary>
+        </member>
+        <member name="P:RepositorioApp.Domain.AppServices.Users.Commands.AuthenticateUserCmd.Password">
+            <summary>
+                Required when grant type is password
+            </summary>
+        </member>
+        <member name="P:RepositorioApp.Domain.AppServices.Users.Commands.AuthenticateUserCmd.RefreshToken">
+            <summary>
+                Required when grant type is refresh_token
+            </summary>
+        </member>
+        <member name="P:RepositorioApp.Domain.ValueObjects.Phone.AreaCode">
+            <summary>
+                Area Code
+            </summary>
+        </member>
+        <member name="P:RepositorioApp.Domain.ValueObjects.Phone.Number">
+            <summary>
+                Number
+            </summary>
+        </member>
+    </members>
+</doc>

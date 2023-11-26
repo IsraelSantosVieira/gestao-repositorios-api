@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  repositorio-api:
+    image: repositorio-api
+    container_name: repositorio-api
+    networks:
+      - local_dev
+    env_file:
+      - docker-compose-dev.env
+    build:
+      context: ../../
+      dockerfile: ./src/RepositorioApp.Api/dockerfile.dev
+    ports:
+      - 5000:5000
+    external_links:
+      - postgres-server:postgres
+
+networks:
+  local_dev:
+    external: true
