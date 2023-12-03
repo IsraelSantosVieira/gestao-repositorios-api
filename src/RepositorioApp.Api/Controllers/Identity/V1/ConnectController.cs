@@ -27,7 +27,7 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         /// <returns></returns>
         [OkResponseType(typeof(EnvelopDataResult<AuthenticateUserResult>))]
         [BadRequestResponseTypeType] [InternalServerErrorResponseType]
-        [HttpPost("token")]
+        [HttpPost("auth")]
         public async Task<IActionResult> Auth([FromBody] AuthenticateUserCmd command)
         {
             if (command == null)

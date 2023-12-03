@@ -3,20 +3,17 @@ namespace RepositorioApp.CrossCutting.Constants
 {
     public class AppMessages
     {
-        public const string InternalServerError = "Internal Server Error";
+        public const string InternalServerError = "Erro interno no servidor";
 
-        public const string NotFond = "Resource not found";
+        public const string NotFond = "Recurso não encontrado";
 
-        public const string Unauthorized = "Unauthorized";
+        public const string Unauthorized = "Não autorizado";
 
-        public const string Forbidden = "Forbidden";
+        public const string Forbidden = "Não encontrado";
 
-        public const string UnprocessableEntity = "Unprocessable Entity";
+        public const string UnprocessableEntity = "Payload não processado";
 
-        public const string ErrorOnConsultCorreiosAddressByCep = "Ocorreu um erro ao consultar o endereço";
-
-
-        public const string ErrorOnProcessEvent = "Event_Process_Error";
+        public const string ErrorOnProcessEvent = "Erro de processamento do payload";
 
         public static readonly string ProblemSavindDataFriendly = "Ops, não foi possível processar sua requisição no momento. Por favor tente novamente mais tarde";
 
