@@ -38,6 +38,8 @@ namespace RepositorioApp.Api._Config.Startup
 
             services.AddScoped<IJobService, JobsService>();
 
+            services.AddScoped<JobsEmails>();
+
             services.AddScoped<IStorageService, StorageService>();
 
             //events

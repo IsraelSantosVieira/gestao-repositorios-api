@@ -25,6 +25,8 @@ namespace RepositorioApp.Domain.Entities
             Avatar = avatar;
             
             Active = true;
+            AcceptedTerm = true;
+            PendingRegisterInformation = true;
             CreatedAt = DateTime.Now;
         }
         
