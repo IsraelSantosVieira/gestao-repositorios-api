@@ -24,14 +24,14 @@ namespace RepositorioApp.Domain.AppServices.Users.Validators
                 .NotEmpty()
                 .WithMessage(UserMessages._Password.NewRequridError);
 
-            RuleFor(x => x.NewPasswordConfirmation)
+            RuleFor(x => x.PasswordConfirm)
                 .NotEmpty()
                 .WithMessage(UserMessages._Password.NewConfirmationRequiredError);
 
             RuleFor(x => x)
-                .Must(x => x.NewPassword == x.NewPasswordConfirmation)
+                .Must(x => x.NewPassword == x.PasswordConfirm)
                 .WithMessage(UserMessages._Password.NotEqualsError)
-                .When(x => !string.IsNullOrWhiteSpace(x.NewPassword) && !string.IsNullOrWhiteSpace(x.NewPasswordConfirmation));
+                .When(x => !string.IsNullOrWhiteSpace(x.NewPassword) && !string.IsNullOrWhiteSpace(x.PasswordConfirm));
         }
     }
 }

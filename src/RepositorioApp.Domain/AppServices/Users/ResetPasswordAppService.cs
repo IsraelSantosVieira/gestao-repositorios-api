@@ -3,6 +3,7 @@ using RepositorioApp.Domain.AppServices.Users.Commands;
 using RepositorioApp.Domain.Contracts.Repositories;
 using RepositorioApp.Domain.Messages;
 using RepositorioApp.Domain.Results;
+using RepositorioApp.Extensions;
 using RepositorioApp.Utilities.Exceptions;
 using RepositorioApp.Utilities.Persistence;
 namespace RepositorioApp.Domain.AppServices.Users
@@ -18,6 +19,8 @@ namespace RepositorioApp.Domain.AppServices.Users
 
         public async Task<ChangeOrResetPasswordResult> Reset(ResetPasswordCmd command)
         {
+            command.Code = command.Code.RemoveSpaces();
+            
             var user = (await _userRepository.FindCompleteByEmailAsync(command.Email))?
                 .ResetPasswordWithCode(command.Code, command.NewPassword);
 
