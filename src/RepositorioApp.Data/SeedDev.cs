@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
@@ -6,23 +7,26 @@ namespace RepositorioApp.Data
 {
     public static class SeedDev
     {
-        private static bool _isDevelopment;
-
         public static void SeedEnvProd(DbContext context)
         {
+            AddMasterUser(context);
             AddRequiredParameters(context);
         }
 
         public static void SeedEnvDev(DbContext context, bool isDevelopment)
         {
-            _isDevelopment = isDevelopment;
-            if (!isDevelopment) return;
-            AddUserApp(context);
+            if (!isDevelopment)
+            {
+                SeedEnvProd(context);
+                return;
+            }
+            
+            AddMasterUser(context);
         }
 
-        private static void AddUserApp(DbContext context)
+        private static void AddMasterUser(DbContext context)
         {
-            const string email = "admin@gmail.com";
+            const string email = "admin@repositorio.com";
 
             var user = context.Set<User>().FirstOrDefault(x => x.Email == email);
 
@@ -30,8 +34,11 @@ namespace RepositorioApp.Data
 
             user = new User(
                 email,
-                "User",
-                "33999123456",
+                "Master",
+                "33999670943",
+                null,
+                null,
+                new DateTime(1999, 06, 15),
                 "Admin"
             )
             .WithPassword("123456")

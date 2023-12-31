@@ -1,3 +1,4 @@
+using System;
 using System.ComponentModel.DataAnnotations;
 namespace RepositorioApp.Domain.AppServices.Users.Commands
 {
@@ -17,5 +18,14 @@ namespace RepositorioApp.Domain.AppServices.Users.Commands
         
         [Required]
         public bool Agreements { get; set; }
+        
+        [Required]
+        public DateTime BirthDate { get; set; }
+        
+        [Required]
+        public Guid University { get; set; }
+        
+        [Required]
+        public Guid EducationalRole { get; set; }
     }
 }

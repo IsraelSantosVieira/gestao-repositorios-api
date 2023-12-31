@@ -24,6 +24,8 @@ namespace RepositorioApp.Data.Map
                 .HasColumnName("value")
                 .HasColumnType("text")
                 .IsRequired();
+
+            builder.MapVarchar(x => x.Group, "group", false);
             builder.MapEnumAsShort(p => p.Type, "parameter_type", true);
             builder.MapBoolean(p => p.Active, "active");
         }

@@ -28,7 +28,13 @@ namespace RepositorioApp.Domain.AppServices.Users
                 throw new DomainException(UserMessages.NotExistsError);
             }
 
-            userApp.UpdatePersonalData(command.FirstName, command.LastName);
+            userApp.UpdatePersonalData(
+                command.FirstName, 
+                command.LastName,
+                command.Avatar,
+                command.BirthDate,
+                command.EducationalRole,
+                command.University);
 
             if (!userApp.AcceptedTerm && command.AcceptedTerm)
             {

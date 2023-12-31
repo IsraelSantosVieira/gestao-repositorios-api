@@ -36,6 +36,12 @@ namespace RepositorioApp.Data.Map
             builder.MapBoolean(x => x.AcceptedTerm, "accepted_term")
                 .HasDefaultValue(false);
 
+            builder.MapTimestamp(x => x.BirthDate, "birth_date");
+
+            builder.MapUuid(x => x.EducationalRoleId, "educational_role");
+
+            builder.MapUuid(x => x.UniversityId, "university");
+
             builder.HasMany(x => x.PasswordRecoverRequests)
                 .WithOne()
                 .HasForeignKey(x => x.UserId)
@@ -48,6 +54,16 @@ namespace RepositorioApp.Data.Map
                 })
                 .HasDatabaseName("ix_users_email")
                 .IsUnique();
+            
+            builder.HasOne(x => x.EducationalRole)
+                .WithMany()
+                .HasForeignKey(x => x.EducationalRoleId)
+                .OnDelete(DeleteBehavior.SetNull);
+            
+            builder.HasOne(x => x.University)
+                .WithMany()
+                .HasForeignKey(x => x.UniversityId)
+                .OnDelete(DeleteBehavior.SetNull);
         }
     }
 }

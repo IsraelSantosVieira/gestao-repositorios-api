@@ -24,11 +24,11 @@ namespace RepositorioApp.Domain.Projections
             return query.AsQueryable().ToVm();
         }
 
-        public static ParameterVm ToVm(this Parameter PageContent)
+        public static ParameterVm ToVm(this Parameter entity)
         {
             return new[]
             {
-                PageContent
+                entity
             }.AsQueryable().ToVm().FirstOrDefault();
         }
     }

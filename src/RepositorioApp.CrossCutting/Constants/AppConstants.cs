@@ -32,6 +32,9 @@ namespace RepositorioApp.CrossCutting.Constants
                         ClientApiV1Key, new ApiConfiguration(true, "client", "Client", "v1")
                     },
                     {
+                        ManagementApiV1Key, new ApiConfiguration(true, "management", "Management", "v1")
+                    },
+                    {
                         PublicApiV1Key, new ApiConfiguration(true, "integration", "Integration", "v1")
                     }
                 };
@@ -62,6 +65,7 @@ namespace RepositorioApp.CrossCutting.Constants
 
         public const string IdentityApiV1Key = "IdentityApiV1Key";
         public const string ClientApiV1Key = "ClientApiV1Key";
+        public const string ManagementApiV1Key = "ManagementApiV1Key";
         public const string PublicApiV1Key = "IntegrationApiV1Key";
 
         #endregion

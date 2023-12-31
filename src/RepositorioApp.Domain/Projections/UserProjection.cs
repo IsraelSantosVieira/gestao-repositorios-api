@@ -12,6 +12,7 @@ namespace RepositorioApp.Domain.Projections
             {
                 Id = user.Id,
                 Email = user.Email,
+                BirthDate = user.BirthDate,
 
                 Active = user.Active,
                 Avatar = user.Avatar,
@@ -25,7 +26,10 @@ namespace RepositorioApp.Domain.Projections
                 PendingRegisterInformation = user.PendingRegisterInformation,
                 AcceptedTerm = user.AcceptedTerm,
                 
-                CreatedAt = user.CreatedAt
+                CreatedAt = user.CreatedAt,
+                
+                University = user.University != null ? user.University.ToVm() : null,
+                EducationalRole = user.EducationalRole != null ? user.EducationalRole.ToVm() : null
             });
         }
 

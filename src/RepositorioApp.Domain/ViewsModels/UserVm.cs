@@ -14,6 +14,10 @@ namespace RepositorioApp.Domain.ViewsModels
         public string Avatar { get; set; }
         public bool PendingRegisterInformation { get; set; }
         public bool AcceptedTerm { get; set; }
+        public DateTime BirthDate { get; set; }
         public bool Master { get; set; }
+        
+        public EducationalRoleVm EducationalRole { get; set; }
+        public UniversityVm University { get; set; }
     }
 }

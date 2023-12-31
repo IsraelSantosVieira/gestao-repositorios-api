@@ -14,15 +14,20 @@ namespace RepositorioApp.Domain.Entities
             string email,
             string firstName,
             string phone,
-            string lastName = null,
-            string avatar = null)
+            Guid? universityId,
+            Guid? educationalRoleId,
+            DateTime birthDate,
+            string lastName = null)
         {
             Id = Guid.NewGuid();
             Phone = phone;
             Email = email;
             FirstName = firstName;
             LastName = lastName;
-            Avatar = avatar;
+            BirthDate = birthDate;
+            
+            UniversityId = universityId;
+            EducationalRoleId = educationalRoleId;
             
             Active = true;
             AcceptedTerm = true;
@@ -41,7 +46,15 @@ namespace RepositorioApp.Domain.Entities
         public string Phone { get; private set; }
         public bool PendingRegisterInformation { get; private set; }
         public bool AcceptedTerm { get; private set; }
+        public DateTime BirthDate { get; private set; }
+        
+        public Guid? UniversityId { get; private set; }
+        public Guid? EducationalRoleId { get; private set; }
+        
         public bool Master { get; private set; }
+        
+        public University University { get; private set; }
+        public EducationalRole EducationalRole { get; private set; }
 
         public ICollection<PasswordRecoverRequest> PasswordRecoverRequests { get; private set; } = new List<PasswordRecoverRequest>();
 
@@ -189,19 +202,16 @@ namespace RepositorioApp.Domain.Entities
             return this;
         }
 
-        public User Update(string firstName, string lastName, string avatar)
+        public User UpdatePersonalData(string firstName, string lastName, string avatar,
+            DateTime birthDate, Guid? educationalRole, Guid? university)
         {
             FirstName = firstName;
             LastName = lastName;
             Avatar = avatar;
-
-            return this;
-        }
-
-        public User UpdatePersonalData(string firstName, string lastName)
-        {
-            FirstName = firstName;
-            LastName = lastName;
+            BirthDate = birthDate;
+            
+            EducationalRoleId = educationalRole;
+            UniversityId = university;
 
             return this;
         }

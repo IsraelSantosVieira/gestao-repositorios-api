@@ -38,6 +38,9 @@ namespace RepositorioApp.Domain.AppServices.Users
                 command.Email.ToLower(),
                 command.FirstName,
                 command.Phone,
+                command.University,
+                command.EducationalRole,
+                command.BirthDate,
                 command.LastName);
 
             return await CreateUserWithCode(newUser);
