@@ -1,0 +1,8817 @@
+[
+  {
+    "Universidade": "ACADEMIA DA POLÍCIA CIVIL DO ESTADO DA BAHIA",
+    "Sigla": "ACADEPOL",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "ACADEMIA DE POLÍCIA MILITAR DO BARRO BRANCO",
+    "Sigla": "APMBB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ACADEMIA DE POLÍCIA MILITAR DOM JOÃO VI",
+    "Sigla": "APMDJVI",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ACADEMIA DE POLÍCIA MILITAR",
+    "Sigla": "APM",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "ACADEMIA MILITAR DE AGULHAS NEGRAS",
+    "Sigla": "AMAN",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ANHANGUERA EDUCACIONAL S.A.",
+    "Sigla": "UNIANHANGUERA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "ANHANGUERA EDUCACIONAL",
+    "Sigla": "AESA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ASSOCIAÇÃO CATARINENSE DE ENSINO",
+    "Sigla": "ACE",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "ASSOCIAÇÃO DE ENSINO SUPERIOR DO PIAUÍ",
+    "Sigla": "AESPI",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "ASSOCIAÇÃO SUL MINEIRA DE EDUCAÇÃO E CULTURA",
+    "Sigla": "ASMEC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "ASSOCIAÇÃO VILHENENSE DE EDUCAÇÃO E CULTURA",
+    "Sigla": "AVEC",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "AVM - FACULDADE INTEGRADA",
+    "Sigla": "IAVM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "BUSINESS SCHOOL SÃO PAULO",
+    "Sigla": "BSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CATÓLICA NOSSA SENHORA DAS NEVES",
+    "Sigla": "Faculdade",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "CENTRO DE EDUCAÇÃO DA AMAZÔNIA",
+    "Sigla": "CEAMA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "CENTRO DE EDUCAÇÃO SUPERIOR BARNABITA",
+    "Sigla": "CESB",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO DE EDUCAÇÃO TECNOLÓGICO",
+    "Sigla": "CET",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR ARCANJO MIKAEL DE ARAPIRACA",
+    "Sigla": "CESAMA",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR CENECISTA DE FARROUPILHA",
+    "Sigla": "CESF",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DE ARCOVERDE",
+    "Sigla": "CESA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DE CATALÃO 1",
+    "Sigla": "CESUC",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DE CONSELHEIRO LAFAIETE",
+    "Sigla": "CES-CL",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DE ITABIRA",
+    "Sigla": "CENSI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DE JUIZ DE FORA",
+    "Sigla": "CES/JF",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DE UBERABA",
+    "Sigla": "CESUBE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DE VITÓRIA",
+    "Sigla": "CESV",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DO AMAPÁ",
+    "Sigla": "CEAP",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DO VALE DO PARNAÍBA",
+    "Sigla": "CESVALE",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DO VALE DO SÃO FRANCISCO",
+    "Sigla": "CESVASF",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO SUPERIOR DOS CAMPOS GERAIS",
+    "Sigla": "CESCAGE",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO DE ENSINO UNIFICADO DE TERESINA",
+    "Sigla": "CEUT",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "CENTRO DE ESTUDOS SUPERIORES APRENDIZ",
+    "Sigla": "CESA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO DE ESTUDOS SUPERIORES DE MACEIÓ",
+    "Sigla": "CESMAC",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "CENTRO DE INSTRUÇÃO ALMIRANTE BRAZ DE AGUIAR",
+    "Sigla": "CIABA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "CENTRO DE INSTRUÇÃO ALMIRANTE GRAÇA ARANHA",
+    "Sigla": "CIAGA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO EDUCACIONAL CONCEIÇÃO NUNES",
+    "Sigla": "CECON",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA CELSO SUCKOW DA FONSECA",
+    "Sigla": "CEFET/RJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS",
+    "Sigla": "CEFETMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO SUPERIOR DE ENSINO E PESQUISA DE MACHADO",
+    "Sigla": "CESEP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO TÉCNICO-EDUCACIONAL SUPERIOR DO OESTE PARANAENSE",
+    "Sigla": "CTESOP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERISTÁRIO DA FACULDADE ESTÁCIO DE SÁ DE BELO HORIZONTE",
+    "Sigla": "FESBH",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO - CATÓLICA DE SANTA CATARINA EM JARAGUÁ DO SUL",
+    "Sigla": "Católica em Jaraguá",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ADVENTISTA DE SÃO PAULO",
+    "Sigla": "UNASP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ADVENTISTA DE SÃO PAULO",
+    "Sigla": "UNASP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO AMPARENSE",
+    "Sigla": "UNIFIA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ANHANGUERA DE NITERÓI",
+    "Sigla": "UNIAN",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ANHANGUERA DE SÃO PAULO",
+    "Sigla": "UNIBERO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ANHANGÜERA",
+    "Sigla": "UNIFIAN",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ANTÔNIO EUFRÁSIO DE TOLEDO DE PRESIDENTE PRUDENTE",
+    "Sigla": "FIAETPP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ASSUNÇÃO",
+    "Sigla": "UNIFAI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO AUGUSTO MOTTA",
+    "Sigla": "UNISUAM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO BARÃO DE MAUÁ",
+    "Sigla": "CBM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO BELAS ARTES DE SÃO PAULO",
+    "Sigla": "FEBASP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO CAMPOS DE ANDRADE",
+    "Sigla": "UNIANDRADE",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO CARIOCA",
+    "Sigla": "UNICARIOCA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO CATÓLICO SALESIANO AUXILIUM",
+    "Sigla": "UNISALESIANO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO CELSO LISBOA",
+    "Sigla": "UCL",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO CENTRAL PAULISTA",
+    "Sigla": "UNICEP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO CLARETIANO",
+    "Sigla": "CEUCLAR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO CURITIBA",
+    "Sigla": "UNICURITIBA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO CÂNDIDO RONDON",
+    "Sigla": "UNIRONDON",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DA CIDADE DO RIO DE JANEIRO",
+    "Sigla": "UNIVERCIDADE",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DA FUNDAÇÃO EDUCACIONAL DE BARRETOS",
+    "Sigla": "UNIFEB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DA FUNDAÇÃO EDUCACIONAL INACIANA PE SABÓIA DE MEDEIROS",
+    "Sigla": "FEI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DA GRANDE DOURADOS",
+    "Sigla": "UNIGRAN",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DAS FACULDADES ASSOCIADAS DE ENSINO",
+    "Sigla": "UNIFAE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS",
+    "Sigla": "FMU",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE ANÁPOLIS",
+    "Sigla": "UNIEVANGÉLICA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE ARARAQUARA",
+    "Sigla": "UNIARA",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE ARARAS - DR. EDMUNDO ULSON",
+    "Sigla": "UNAR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE BARRA MANSA",
+    "Sigla": "UBM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE BELFORD ROXO",
+    "Sigla": "UNIABEU",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE BELO HORIZONTE",
+    "Sigla": "UNIBH",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE BRASÍLIA",
+    "Sigla": "CEUB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE BRUSQUE",
+    "Sigla": "UNIFEBE",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE CAMPO GRANDE",
+    "Sigla": "UNAES",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE CARATINGA",
+    "Sigla": "UNEC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE DESENVOLVIMENTO DO CENTRO OESTE",
+    "Sigla": "UNIDESC",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE ENSINO SUPERIOR DO AMAZONAS",
+    "Sigla": "Ciesa",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE FORMIGA",
+    "Sigla": "UNIFORMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE FRANCA",
+    "Sigla": "UniFACEF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE ITAJUBÁ",
+    "Sigla": "UNIVERSITAS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE JARAGUÁ DO SUL",
+    "Sigla": "UNERJ",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE JOÃO PESSOA",
+    "Sigla": "UNIPE",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE LAVRAS",
+    "Sigla": "UNILAVRAS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE MANDAGUARI - UNIMAN",
+    "Sigla": "FAFIMAN",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE MARINGÁ",
+    "Sigla": "CESUMAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE MINEIROS",
+    "Sigla": "UNIFIMES",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE PATOS DE MINAS",
+    "Sigla": "UNIPAM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE RIO PRETO",
+    "Sigla": "UNIRP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE SETE LAGOAS MONSENHOR MESSIAS",
+    "Sigla": "UNIFEMM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE UNIÃO DA VITÓRIA",
+    "Sigla": "UNIUV",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE VOLTA REDONDA",
+    "Sigla": "UNIFOA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE VOTUPORANGA",
+    "Sigla": "UNIFEV",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DE VÁRZEA GRANDE",
+    "Sigla": "UNIVAG",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DINÂMICA DAS CATARATAS",
+    "Sigla": "UDC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO CERRADO  PATROCÍNIO",
+    "Sigla": "UNICERP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO DISTRITO FEDERAL",
+    "Sigla": "UDF",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO",
+    "Sigla": "UNESC",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO INSTITUTO MAUÁ DE TECNOLOGIA",
+    "Sigla": "CEUN-IMT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO LESTE DE MINAS GERAIS",
+    "Sigla": "UNILESTE/MG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO MARANHÃO",
+    "Sigla": "UNICEUMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO NORTE PAULISTA",
+    "Sigla": "UNORP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO NORTE",
+    "Sigla": "Uninorte",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO PARÁ",
+    "Sigla": "CESUPA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO PLANALTO DE ARAXÁ",
+    "Sigla": "UNIARAXÁ",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO TRIÂNGULO",
+    "Sigla": "UNITRI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO DO VALE DO IPOJUCA",
+    "Sigla": "UNIVIP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ESTÁCIO DA BAHIA",
+    "Sigla": "ESTÁCIO FIB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ESTÁCIO DE SÁ DE SANTA CATARINA",
+    "Sigla": "FESSC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ESTÁCIO RADIAL DE SÃO PAULO - ESTÁCIO UNIRADIAL",
+    "Sigla": "ESTÁCIO UNIRADIAL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO EURO-AMERICANO",
+    "Sigla": "UNIEURO",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO EURÍPEDES DE MARÍLIA",
+    "Sigla": "UNIVEM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO FILADÉLFIA",
+    "Sigla": "UNIFIL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO FLUMINENSE",
+    "Sigla": "UNIFLU",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO FRANCISCANO",
+    "Sigla": "UNIFRA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO FUNDAÇÃO DE ENSINO OCTÁVIO BASTOS - FEOB",
+    "Sigla": "UNIFEOB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO FUNDAÇÃO INSTITUTO DE ENSINO PARA OSASCO",
+    "Sigla": "UNIFIEO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO FUNDAÇÃO SANTO ANDRÉ",
+    "Sigla": "CUFSA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO GERALDO DI BIASE",
+    "Sigla": "UGB",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO HERMINIO OMETTO",
+    "Sigla": "UNIARARAS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO HERMÍNIO DA SILVEIRA",
+    "Sigla": "UNI IBMR",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO INTERNACIONAL",
+    "Sigla": "UNINTER",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO JORGE AMADO",
+    "Sigla": "UNIJORGE",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO LA SALLE",
+    "Sigla": "UNILASALLE",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO LEONARDO DA VINCI",
+    "Sigla": "UNIASSELVI",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO LUTERANO DE JIPARANÁ",
+    "Sigla": "CEULJI/ULBRA",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO LUTERANO DE PALMAS",
+    "Sigla": "CEULP/ULBRA",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO LUTERANO DE SANTARÉM",
+    "Sigla": "CEULS",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO MAURICIO DE NASSAU",
+    "Sigla": "UNINASSAU",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO METODISTA IZABELA HENDRIX",
+    "Sigla": "CEUNIH",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO METODISTA",
+    "Sigla": "IPA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO METROPOLITANO DE SÃO PAULO",
+    "Sigla": "UNIMESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO MOACYR SREDER BASTOS",
+    "Sigla": "UNIMSB",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO MONTE SERRAT",
+    "Sigla": "UNIMONTE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO MOURA LACERDA",
+    "Sigla": "CUML",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO NEWTON PAIVA",
+    "Sigla": "NEWTON PAIVA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO NILTON LINS",
+    "Sigla": "UNINILTONLINS",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO NOSSA SENHORA DO PATROCÍNIO",
+    "Sigla": "CEUNSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO PADRE ANCHIETA",
+    "Sigla": "UNIANCHIETA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO PARA O DESENVOLVIMENTO DO ALTO VALE DO ITAJAÍ",
+    "Sigla": "UNIDAVI",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO PLANALTO DO DISTRITO FEDERAL",
+    "Sigla": "UNIPLAN",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO RITTER DOS REIS",
+    "Sigla": "UNIRITTER",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO SALESIANO DE SÃO PAULO",
+    "Sigla": "UNISAL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO SANT ANNA",
+    "Sigla": "UNISANT ANNA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO SERRA DOS ÓRGÃOS",
+    "Sigla": "UNIFESO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO SÃO CAMILO",
+    "Sigla": "CUSC",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO SÃO CAMILO",
+    "Sigla": "CUSC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO TIRADENTES",
+    "Sigla": "FITS",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO UNA",
+    "Sigla": "UNA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO UNIRG",
+    "Sigla": "UnirG",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO UNIVATES",
+    "Sigla": "UNIVATES",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "CENTRO UNIVERSITÁRIO ÍTALO-BRASILEIRO",
+    "Sigla": "UNIÍTALO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "CHRISTUS FACULDADE DO PIAUÍ",
+    "Sigla": "CHRISFAPI",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "CLARETIANO REDE DE EDUCAÇÃO",
+    "Sigla": "CLARETIANO",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "CONSERVATÓRIO BRASILEIRO DE MÚSICA - CENTRO UNIVERSITÁRIO",
+    "Sigla": "CBM/CEU",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ESCOLA BAHIANA DE MEDICINA E SAÚDE PÚBLICA",
+    "Sigla": "EBMSP",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "ESCOLA BRASILEIRA DE ADMINISTRAÇÃO PÚBLICA E DE EMPRESAS",
+    "Sigla": "EBAPE",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ESCOLA BRASILEIRA DE ECONOMIA E FINANÇAS",
+    "Sigla": "EBEF",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ESCOLA DA CIDADE - FACULDADE DE ARQUITETURA E URBANISMO",
+    "Sigla": "ESCOLA DA CIDADE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA DE ADMINISTRAÇÃO DE EMPRESAS DE SÃO PAULO",
+    "Sigla": "FGV-EAESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA DE ADMINISTRAÇÃO DO EXÉRCITO",
+    "Sigla": "ESAEX",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "ESCOLA DE DIREITO DE SÃO PAULO",
+    "Sigla": "DIREITO GV",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA DE DIREITO DO RIO DE JANEIRO",
+    "Sigla": "DIREITO RIO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ESCOLA DE ECONOMIA DE SÃO PAULO",
+    "Sigla": "EESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA DE EDUCAÇÃO FÍSICA DE ASSIS",
+    "Sigla": "EEFA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA DE ENFERMAGEM WENCESLAU BRAZ",
+    "Sigla": "EEWB",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "ESCOLA DE ENGENHARIA DE PIRACICABA",
+    "Sigla": "EEP/FUMEP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA DE ENGENHARIA ELETROMECÂNICA DA BAHIA",
+    "Sigla": "ESEEMB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "ESCOLA DE ENGENHARIA KENNEDY",
+    "Sigla": "EEK",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "ESCOLA DE ENSINO SUPERIOR ANÍSIO TEIXEIRA",
+    "Sigla": "CESAT",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "ESCOLA DE ESCTUDOS SUPERIORES DE VIÇOSA",
+    "Sigla": "ESUV",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "ESCOLA DE GOVERNO PROFESSOR PAULO NEVES DE CARVALHO",
+    "Sigla": "EG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "ESCOLA DE MÚSICA E BELAS ARTES DO PARANÁ",
+    "Sigla": "EMBAP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "ESCOLA NACIONAL DE CIÊNCIAS ESTATÍSTICAS",
+    "Sigla": "ENCE",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ESCOLA NAVAL",
+    "Sigla": "EN",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ESCOLA PERNAMBUCANA DE SAÚDE",
+    "Sigla": "FBVIMIP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "ESCOLA POLITÉCNICA DE PERNAMBUCO",
+    "Sigla": "POLI",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR ASSOCIADA DE GOIÂNIA",
+    "Sigla": "ESUP",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR BATISTA DO AMAZONAS",
+    "Sigla": "Esbam",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DA AMAZÔNIA",
+    "Sigla": "ESAMAZ",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE ADMINISTRAÇÃO E GESTÃO",
+    "Sigla": "ESAGS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE CIÊNCIAS DA SANTA CASA DE MISERICÓRDIA DE VITÓRIA",
+    "Sigla": "EMESCAM",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE",
+    "Sigla": "ESCS",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE CRICIÚMA - ESUCRI",
+    "Sigla": "ESUCRI",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE CRUZEIRO PREFEITO HAMILTON VIEIRA MENDES",
+    "Sigla": "ESEFIC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE EDUCAÇÃO FÍSICA DE JUNDIAÍ",
+    "Sigla": "ESEFJ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE EDUCAÇÃO FÍSICA",
+    "Sigla": "ESEF",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE ENGENHARIA E GESTÃO DE SÃO PAULO - ESEG",
+    "Sigla": "ESEG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE ENSINO HELENA ANTIPOFF",
+    "Sigla": "ESEHA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE ESTUDOS EMPRESARIAIS E INFORMÁTICA",
+    "Sigla": "ESEEI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE GESTÃO COMERCIAL E MARKETING",
+    "Sigla": "ESIC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE HOTELARIA CASTELLI",
+    "Sigla": "CASTELLI",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE MARKETING",
+    "Sigla": "ESM",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE MÚSICA E ARTES DO RIO GRANDE DO SUL",
+    "Sigla": "ESMARGS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE PROPAGANDA E MARKETING",
+    "Sigla": "ESPM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE RELAÇÕES PÚBLICAS",
+    "Sigla": "Esurp",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE SAÚDE DE ARCOVERDE",
+    "Sigla": "ESSA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE SECRETARIADO DE PERNAMBUCO",
+    "Sigla": "ESUSPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE TECNOLOGIA E EDUCAÇÃO DE PORTO FERREIRA",
+    "Sigla": "ESPF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DE TECNOLOGIA E EDUCAÇÃO DE RIO CLARO",
+    "Sigla": "ESRC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR DOM HELDER CÂMARA",
+    "Sigla": "ESDHC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR EM MEIO AMBIENTE",
+    "Sigla": "ESMA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR MADRE CELESTE",
+    "Sigla": "ESMAC",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR NACIONAL DE SEGUROS",
+    "Sigla": "ESNS",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "ESCOLA SUPERIOR SÃO FRANCISCO DE ASSIS",
+    "Sigla": "ESFA",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "ESCOLA TÉCNICA E SUPERIOR MACHADO DE ASSIS  SANTA ROSA",
+    "Sigla": "FEMA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "ESTÁCIO DE SÁ  FACULDADE DO PARÁ",
+    "Sigla": "ESTÁCIO FAP",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "ESTÁCIO FATERN - FACULDADE ESTÁCIO DO RIO GRANDE DO NORTE",
+    "Sigla": "ESTÁCIO FATERN",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACISA-UNAI FACULDADE DE CIÊNCIAS DA SAÚDE DE UNAÍ",
+    "Sigla": "FACISA-UNAI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE 7 DE SETEMBRO",
+    "Sigla": "Fa7",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE ADELMAR ROSADO",
+    "Sigla": "FAR",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE ADVENTISTA DA BAHIA",
+    "Sigla": "FADBA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE ADVENTISTA DE HORTOLÂNDIA",
+    "Sigla": "FAH",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ADVENTISTA PARANAENSE",
+    "Sigla": "IAP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE AFIRMATIVO",
+    "Sigla": "FAFI",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE AIEC",
+    "Sigla": "AIEC / FAAB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ALAGOANA DE ADMINISTRAÇÃO",
+    "Sigla": "FAA",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE ALBERT EINSTEIN",
+    "Sigla": "FALBE",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ALDETE MARIA ALVES",
+    "Sigla": "FAMA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE ALFA BRASIL",
+    "Sigla": "FAAB",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ALFACASTELO",
+    "Sigla": "FCGB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ALFREDO NASSER",
+    "Sigla": "FAN",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE ALIANÇA",
+    "Sigla": "ALIANÇA",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE ALMEIDA RODRIGUES",
+    "Sigla": "FAR",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE ALVES FARIA",
+    "Sigla": "ALFA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE ALVORADA DE EDUCAÇÃO FÍSICA E DESPORTO",
+    "Sigla": "FAEFD",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ALVORADA DE TECNOLOGIA E EDUCAÇÃO DE MARINGÁ",
+    "Sigla": "FACULDADE ALVORADA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE AMADEUS",
+    "Sigla": "FAMA",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE AMEC TRABUCO",
+    "Sigla": "AMAEC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE ANCHIETA DE ENSINO SUPERIOR DO PARANÁ",
+    "Sigla": "FAESP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ANCHIETA DO RECIFE",
+    "Sigla": "FAR",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE ANCHIETA",
+    "Sigla": "IGABC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANGLICANA DE ERECHIM",
+    "Sigla": "FAE",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE ANGLO-AMERICANO DE JOÃO PESSOA",
+    "Sigla": "FAAJP",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE ANGLO-AMERICANO",
+    "Sigla": "FAA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ANGLOAMERICANO DE CAXIAS DO SUL",
+    "Sigla": "FAACS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE ANÁPOLIS",
+    "Sigla": "FAA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE BRASÍLIA",
+    "Sigla": "FAB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE CASCAVEL",
+    "Sigla": "FACIAP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE CAXIAS DO SUL",
+    "Sigla": "FACS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE CIÊNCIAS E TECNOLOGIA DE BRASÍLIA",
+    "Sigla": "FACITEB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE CUIABÁ",
+    "Sigla": "FAC",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE EDUCAÇÃO CIÊNCIAS E TECNOLOGIA DE SOROCABA",
+    "Sigla": "FAECTS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE GUARULHOS",
+    "Sigla": "FIT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE NEGÓCIOS E TECNOLOGIAS DA INFORMAÇÃO",
+    "Sigla": "FACNET",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE OSASCO",
+    "Sigla": "FIZO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE SERTÃOZINHO",
+    "Sigla": "FASERT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE SUMARÉ",
+    "Sigla": "FACSUMARÉ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE SÃO BERNARDO",
+    "Sigla": "FASBC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE SÃO CAETANO",
+    "Sigla": "Fasc",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE TABOÃO DA SERRA",
+    "Sigla": "FATS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE TAGUATINGA",
+    "Sigla": "FAST",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE TECNOLOGIA DE JUNDUAÍ",
+    "Sigla": "FATJ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA DE VALPARAÍSO",
+    "Sigla": "FAV",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGUERA JARAGUÁ DO SUL",
+    "Sigla": "FATEJA",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGÜERA DE DOURADOS",
+    "Sigla": "FAD",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE ANHANGÜERA DE SOROCABA",
+    "Sigla": "FSO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ANTONIO MENEGHETTI",
+    "Sigla": "FAM",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE ANÍSIO TEIXEIRA DE FEIRA DE SANTANA",
+    "Sigla": "FAT",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE APOGEU",
+    "Sigla": "APOGEU",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ARAGUAIA",
+    "Sigla": "FARA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE ARNALDO HORÁCIO FERREIRA",
+    "Sigla": "FAAHF",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE ARQUIDIOCESANA DE CURVELO",
+    "Sigla": "FAC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE ARTHUR SÁ EARP NETO",
+    "Sigla": "FASE",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE ARTHUR THOMAS",
+    "Sigla": "CESA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ASA DE BRUMADINHO",
+    "Sigla": "IECEMB - FAB",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE ASCES",
+    "Sigla": "ASCES",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE ASSIS GURGACZ",
+    "Sigla": "FAG",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ASSOCIADA BRASIL",
+    "Sigla": "FAB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ASTORGA",
+    "Sigla": "FAAST",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ATENAS MARANHENSE",
+    "Sigla": "FAMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE ATENEU",
+    "Sigla": "FATE",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE ATLÂNTICO",
+    "Sigla": "ATLANTICO",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE ATUAL",
+    "Sigla": "FAAT",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "FACULDADE AUTÔNOMA DE DIREITO",
+    "Sigla": "FADISP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE AVANTIS",
+    "Sigla": "AVANTIS",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE AVEC DE VILHENA",
+    "Sigla": "AVEC",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE AÇÃO",
+    "Sigla": "FCTVALE",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE BAIANA DE CIÊNCIAS CONTÁBEIS",
+    "Sigla": "FABAC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE BAIANA DE DIREITO",
+    "Sigla": "FBD",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE BARDDAL DE ARTES APLICADAS",
+    "Sigla": "FB-AA",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE BARDDAL",
+    "Sigla": "FB-SI",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE BARRETOS",
+    "Sigla": "FB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE BARÃO DO RIO BRANCO",
+    "Sigla": "FAB",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE BATISTA BRASILEIRA",
+    "Sigla": "FBB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE BATISTA BRASILEIRA",
+    "Sigla": "FBB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE BATISTA DE MINAS GERAIS",
+    "Sigla": "FBMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE BATISTA DE VITORIA",
+    "Sigla": "FABAVI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE BATISTA DO RIO DE JANEIRO",
+    "Sigla": "FABAT",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE BERTIOGA",
+    "Sigla": "FABE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE BETIM",
+    "Sigla": "FABE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE BEZERRA DE ARAÚJO",
+    "Sigla": "FABA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE BIRIGUI",
+    "Sigla": "FABI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE BOA VIAGEM",
+    "Sigla": "FBV",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE BOAS NOVAS DE CIÊNCIAS TEOLÓGICAS SOCIAIS E BIOTECNOLÓGICAS",
+    "Sigla": "FBNCTSB",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE BORGES DE MENDONÇA",
+    "Sigla": "FBM",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE BRASIL CENTRAL",
+    "Sigla": "FBC",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE BRASIL NORTE",
+    "Sigla": "FABRAN",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "FACULDADE BRASILEIRA DE EDUCAÇÃO E CULTURA",
+    "Sigla": "FABEC BRASIL",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE BRASILEIRA",
+    "Sigla": "MULTIVIX VITÓRIA",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE BRASILEIRA",
+    "Sigla": "UNIVIX",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE BRASÍLIA DE SÃO PAULO",
+    "Sigla": "FABRASP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE BÉTHENCOURT DA SILVA",
+    "Sigla": "FABES",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE CALAFIORI",
+    "Sigla": "CALAFIORI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CAMAQÜENSE DE CIÊNCIAS CONTÁBEIS E ADMINISTRATIVAS",
+    "Sigla": "FACCCA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE CAMBURY",
+    "Sigla": "CAMBURY",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE CAMPO GRANDE",
+    "Sigla": "FCG",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE CAMPO REAL",
+    "Sigla": "CAMPO REAL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE CAMPOS ELÍSEOS",
+    "Sigla": "FCE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE CANDIDO MENDES DE VITÓRIA",
+    "Sigla": "FCMV",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE CAPIVARI",
+    "Sigla": "FUCAP",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE CAPIXABA DA SERRA",
+    "Sigla": "MULTIVIX SERRA",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE CAPIXABA DE NOVA VENÉCIA",
+    "Sigla": "MULTIVIX NOVA VENÉCI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE CARLOS DRUMMOND DE ANDRADE",
+    "Sigla": "FCDA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE CASA BRANCA",
+    "Sigla": "FACAB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE CASA DO ESTUDANTE",
+    "Sigla": "FACE",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE CASTELO BRANCO",
+    "Sigla": "FCB",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE CASTRO ALVES",
+    "Sigla": "FCA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE CATUAÍ",
+    "Sigla": "ICES",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DE ANÁPOLIS",
+    "Sigla": "Fac",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DE CIÊNCIAS ECONÔMICAS DA BAHIA",
+    "Sigla": "FACCEBA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DE FORTALEZA",
+    "Sigla": "FCF",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DE POUSO ALEGRE",
+    "Sigla": "FACAPA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DE RONDONIA",
+    "Sigla": "FCR",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DE UBERLÂNDIA",
+    "Sigla": "FCU",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DO CEARÁ",
+    "Sigla": "FCC",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DO TOCANTINS",
+    "Sigla": "FACTO",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA DOM ORIONE",
+    "Sigla": "FACDO",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA RAINHA DA PAZ DE ARAPUTANGA",
+    "Sigla": "FCARP",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA RAINHA DO SERTÃO",
+    "Sigla": "FCRS",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE CATÓLICA SANTA TERESINHA",
+    "Sigla": "FCST",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE CCAA",
+    "Sigla": "FAC CCAA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE CECAP DO LAGO NORTE",
+    "Sigla": "CECAP",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE BENTO GONÇALVES",
+    "Sigla": "FACEBG",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE CAMPO LARGO",
+    "Sigla": "FACECLA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE ITABORAÍ",
+    "Sigla": "FACNEC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE JOINVILLE - FACE",
+    "Sigla": "FCJ",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE NOVA PETRÓPOLIS",
+    "Sigla": "FACENP",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE OSÓRIO",
+    "Sigla": "FACOS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE RIO DAS OSTRAS",
+    "Sigla": "FCRO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE RONDONÓPOLIS",
+    "Sigla": "FACER",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE SETE LAGOAS",
+    "Sigla": "FCSL",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE SINOP",
+    "Sigla": "FACENOP",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE VARGINHA",
+    "Sigla": "FACECA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA DE VILA VELHA",
+    "Sigla": "FACEVV",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA ILHA DO GOVERNADOR",
+    "Sigla": "FACIG",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE CENECISTA NOSSA SENHORA DOS ANJOS",
+    "Sigla": "FACENSA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE CENTRAL DE CRISTALINA",
+    "Sigla": "FACEC",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE CENTRO OESTE",
+    "Sigla": "FACEOPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE CENTRO PAULISTA",
+    "Sigla": "CESI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE CESMAC DO SERTÃO",
+    "Sigla": "CESMAC Sertão",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE CHRISTUS",
+    "Sigla": "UNICHRISTUS",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE CIDADE DE COROMANDEL",
+    "Sigla": "FCC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CIDADE DE JOÃO PINHEIRO",
+    "Sigla": "FCJP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CIDADE DE PATOS DE MINAS",
+    "Sigla": "FPM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CIDADE DO SALVADOR",
+    "Sigla": "FCS",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE CIDADE LUZ",
+    "Sigla": "FACILUZ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE CIDADE VERDE",
+    "Sigla": "FCV",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE CIÊNCIAS DA VIDA",
+    "Sigla": "FCV",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CONCÓRDIA",
+    "Sigla": "FACC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE CORPORATIVA CESPI",
+    "Sigla": "FACESPI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE COTEMIG",
+    "Sigla": "COTEMIG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE CRISTO REI",
+    "Sigla": "FACCREI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE CRUZ AZUL",
+    "Sigla": "FACRAZ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE CUIABÁ",
+    "Sigla": "FAUC",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE CÁSPER LÍBERO",
+    "Sigla": "FCL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE CÂMARA CASCUDO",
+    "Sigla": "FCC",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE CÂNDIDO RONDON - FCR",
+    "Sigla": "FCR",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DA ALDEIA DE CARAPICUÍBA",
+    "Sigla": "FALC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DA ALTA PAULISTA",
+    "Sigla": "FAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DA AMAZÔNIA OCIDENTAL",
+    "Sigla": "FAAO",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE DA AMAZÔNIA",
+    "Sigla": "FAMA",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DA CIDADE DE MACEIÓ",
+    "Sigla": "FACIMA",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE DA CIDADE DE SANTA LUZIA",
+    "Sigla": "FACSAL",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DA ESCADA",
+    "Sigla": "FAESC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DA REGIÃO DOS LAGOS",
+    "Sigla": "FERLAGOS",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DA REGIÃO SERRANA",
+    "Sigla": "FARESE",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DA SAÚDE E ECOLOGIA HUMANA",
+    "Sigla": "FASEH",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DA SERRA GAÚCHA",
+    "Sigla": "FSG",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DA SERRA",
+    "Sigla": "FASE",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DA SEUNE",
+    "Sigla": "SEUNE",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE DAMAS DA INSTRUÇÃO CRISTÃ",
+    "Sigla": "FADIC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DAMÁSIO",
+    "Sigla": "FD",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DARCY RIBEIRO",
+    "Sigla": "FADR",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DAS AMÉRICAS",
+    "Sigla": "FAM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DAS ATIVIDADES EMPRESARIAIS DE TERESINA",
+    "Sigla": "FAETE",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE DAS ÁGUAS EMENDADAS - FAE",
+    "Sigla": "FAE",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO CIÊNCIAS ECON E CONTÁBEIS DE GUARATINGUETÁ",
+    "Sigla": "FACEAG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO CIÊNCIAS EDUCAÇÃO E LETRAS",
+    "Sigla": "FACEL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DA ASSOCIAÇÃO BRASILIENSE DE EDUCAÇÃO",
+    "Sigla": "FABE",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DA FESPSP",
+    "Sigla": "FADFESPSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DA FUNDAÇÃO ARMANDO ALVARES PENTEADO",
+    "Sigla": "FAE-FAAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE CAMPO BELO",
+    "Sigla": "FACAMP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE CATAGUASES",
+    "Sigla": "UNIPACAT",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE CHAPADÃO DO SUL",
+    "Sigla": "FACHASUL",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE GOVERNADOR VALADARES",
+    "Sigla": "FAGV",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE ITABIRITO",
+    "Sigla": "FAI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE NOVA ANDRADINA - FANOVA",
+    "Sigla": "FANOVA",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE PASSOS",
+    "Sigla": "FAP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE SANTA CRUZ DO RIO PARDO",
+    "Sigla": "FASC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE SÃO JOSÉ DO RIO PRETO",
+    "Sigla": "FACMIL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO DE TERESINA",
+    "Sigla": "FAT",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO E ARTES DE LIMEIRA",
+    "Sigla": "FAAL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS DE SÃO ROQUE",
+    "Sigla": "FACCSR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO E INFORMÁTICA PAULISTA",
+    "Sigla": "FIAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ADMINISTRAÇÃO E NEGÓCIOS DE SERGIPE",
+    "Sigla": "FANESE",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE DE AGRONEGÓCIO PARAÍSO DO NORTE",
+    "Sigla": "FAPAN",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE AGRONOMIA E ENGENHARIA FLORESTAL DE GARÇA",
+    "Sigla": "FAEF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE AGUDOS",
+    "Sigla": "FAAG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ALMENARA",
+    "Sigla": "ALFA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ALTA FLORESTA",
+    "Sigla": "FAF",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE AMAMBAI",
+    "Sigla": "FIAMA",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE DE AMERICANA",
+    "Sigla": "FAM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE AMPÉRE",
+    "Sigla": "FAMPER",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE APUCARANA",
+    "Sigla": "FAP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE ARACAJU",
+    "Sigla": "FACAR",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE DE ARACRUZ",
+    "Sigla": "FAACZ",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE ARARAQUARA",
+    "Sigla": "FARA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ARQUITETURA E URBANISMO DE PERNAMBUCO",
+    "Sigla": "FAUPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE ARTES CIÊNCIAS E TECNOLOGIAS",
+    "Sigla": "FACET",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE ARTES DO PARANÁ",
+    "Sigla": "FAP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE ARUJÁ",
+    "Sigla": "FAR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE AURIFLAMA",
+    "Sigla": "FAU",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE BALSAS",
+    "Sigla": "UNIBALSAS",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE DE BELFORD ROXO",
+    "Sigla": "FABEL",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE BELÉM",
+    "Sigla": "FABEL",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE DE CAFELÂNDIA",
+    "Sigla": "FAC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE CALDAS NOVAS",
+    "Sigla": "UNICALDAS",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE CAMPINA GRANDE DO SUL",
+    "Sigla": "FACSUL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE CAMPO LIMPO PAULISTA",
+    "Sigla": "FACCAMP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CARIACICA",
+    "Sigla": "FAC DE CARIACICA",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE CASTANHAL",
+    "Sigla": "FCAT",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE DE CASTELO",
+    "Sigla": "FACASTELO",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE CERES",
+    "Sigla": "FACERES",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIENCIAS HUMANAS E SOCIAIS DE SERRA TALHADA",
+    "Sigla": "FACHUSST",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIA E EDUCAÇÃO DO CAPARAÓ",
+    "Sigla": "FACEC",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIA E TECNOLOGIA DE CARUARU",
+    "Sigla": "FACITEC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIA E TECNOLOGIA DO PLANALTO CENTRAL",
+    "Sigla": "FACIPLAC",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIA E TECNOLOGIA",
+    "Sigla": "ÁREA1",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS AGRÁRIAS DE ANDRADINA",
+    "Sigla": "FCAA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS AGRÁRIAS DE ARARIPINA",
+    "Sigla": "FACIAGRA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS AGRÁRIAS E DA SAÚDE",
+    "Sigla": "FAS",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS AGRÁRIAS E EXATAS DE PRIMAVERA DO LESTE",
+    "Sigla": "FCAE",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS APLICADAS DOUTOR LEÃO SAMPAIO",
+    "Sigla": "Fals",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS APLICADAS E SOCIAIS DE PETROLINA",
+    "Sigla": "FACAPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS BIOMÉDICAS DE CACOAL",
+    "Sigla": "FACIMED",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS BIOMÉDICAS DO ESPÍRITO SANTO",
+    "Sigla": "PIO XII - BIO",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS CONTABEIS DE DIVINÓPOLIS",
+    "Sigla": "FACED",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS CONTÁBEIS DE ITAPETININGA",
+    "Sigla": "FCCI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS CONTÁBEIS DE NOVA ANDRADINA - FACINAN",
+    "Sigla": "FACINAN",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS CONTÁBEIS DE RECIFE",
+    "Sigla": "FACCOR",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS CONTÁBEIS E ADMINISTRATIVAS DE CACHOEIRO DO ITAPEMIRIM",
+    "Sigla": "FACCACI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS CONTÁBEIS E DE ADMINISTRAÇÃO DO VALE DO JURUENA",
+    "Sigla": "AJES",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS CONTÁBEIS LUIZ MENDES",
+    "Sigla": "LUMEN FACULDADES",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS CULTURA E EXTENSÃO DO RN",
+    "Sigla": "Facex",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DA ADMINISTRAÇÃO DE GARANHUNS",
+    "Sigla": "FAGA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DA ADMINISTRAÇÃO DE PERNAMBUCO",
+    "Sigla": "FCAP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DA ADMINISTRAÇÃO DO LIMOEIRO",
+    "Sigla": "FACAL",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DA BAHIA",
+    "Sigla": "FACIBA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DA SAÚDE ARCHIMEDES THEODORO",
+    "Sigla": "FAC - SAUDE ARTHE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DA SAÚDE DE BARRETOS DR. PAULO PRATA",
+    "Sigla": "FCSB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DA SAÚDE DE CAMPOS GERAIS",
+    "Sigla": "FACICA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DE GUARULHOS",
+    "Sigla": "FACIG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DE RUBIATABA",
+    "Sigla": "FACER",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DE TIMBAÚBA",
+    "Sigla": "FACET",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DE WENCESLAU BRAZ",
+    "Sigla": "FACIBRA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS DO TOCANTINS",
+    "Sigla": "FACIT",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS E CULTURA DA BAHIA",
+    "Sigla": "FCCB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS E CULTURA DE CAJAZEIRAS",
+    "Sigla": "FCCC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS E EDUCAÇÃO SENA AIRES",
+    "Sigla": "FACESA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS E LETRAS DE BRAGANÇA PAULISTA",
+    "Sigla": "FESB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS E SAÚDE DE SERRA TALHADA",
+    "Sigla": "FACISST",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS E TECNOLOGIA DE BIRIGUI",
+    "Sigla": "FATEB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS E TECNOLOGIA DE UNAÍ",
+    "Sigla": "FACTU",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS E TECNOLOGIA DO MARANHÃO",
+    "Sigla": "FACEMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS ECONÔMICAS ADMINISTRATIVAS E CONTÁBEIS DE DIVINÓPOLIS",
+    "Sigla": "FACED",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS ECONÔMICAS ADMINISTRATIVAS E DA COMPUTAÇÃO DOM BOSCO",
+    "Sigla": "FCEACDB",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS ECONÔMICAS DA REGIÃO CARBONÍFERA",
+    "Sigla": "FACIERC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS ECONÔMICAS DO TRIÂNGULO MINEIRO",
+    "Sigla": "FCETM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS ECONÔMICAS E ADMINISTRATIVAS SANTA RITA DE CÁSSIA",
+    "Sigla": "FACEAS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS ECONÔMICAS",
+    "Sigla": "FACAMP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS EDUCACIONAIS DE CAPIM GROSSO",
+    "Sigla": "FCG",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS EDUCACIONAIS E SISTEMAS INTEGRADOS",
+    "Sigla": "FACESI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS EDUCAÇÃO E TECNOLOGIA DE GARANHUNS",
+    "Sigla": "FACETEG",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS EDUCAÇÃO E TEOLOGIA DO NORTE DO BRASIL",
+    "Sigla": "FACETEN",
+    "Uf": "RR"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS EMPRESARIAIS",
+    "Sigla": "FACEMP",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS EXATAS E HUMANAS DA CAMPANHA",
+    "Sigla": "FCCP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS EXATAS E TECNOLÓGICAS SANTO AGOSTINHO - FACET",
+    "Sigla": "FACET",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS GERENCIAIS ALVES FORTES",
+    "Sigla": "FACE - ALFOR",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS GERENCIAIS BARÃO DE JUNDIAÍ",
+    "Sigla": "FCG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS GERENCIAIS DA BAHIA",
+    "Sigla": "UNICENID",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS GERENCIAIS DE MANHUAÇU",
+    "Sigla": "FACIG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS GERENCIAIS DE SÃO GOTARDO",
+    "Sigla": "CESG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS GERENCIAIS E EMPREENDEDORISMO - FACIGE",
+    "Sigla": "FACIGE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS GERENCIAIS PADRE ARNALDO JANSSEN",
+    "Sigla": "FAJANSSEN",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS DE CRUZEIRO",
+    "Sigla": "FACIC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS DE OLINDA",
+    "Sigla": "FACHO",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS DE PERNAMBUCO",
+    "Sigla": "FCHPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS DO SERTÃO CENTRAL",
+    "Sigla": "FACHUSC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS DO VALE DO RIO GRANDE",
+    "Sigla": "FCHVRG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS E BIOLÓGICAS E DA SAÚDE",
+    "Sigla": "FCHBS",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS E EXATAS DO SERTÃO DO SÃO FRANCISCO",
+    "Sigla": "FACESF",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS E SOCIAIS APLICADAS DO CABO DE SANTO AGOSTINHO",
+    "Sigla": "FACHUCA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS E SOCIAIS DE ARARIPINA",
+    "Sigla": "FACISA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS E SOCIAIS DE IGARASSU",
+    "Sigla": "FACIG",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS ECONÔMICAS E DA SAÚDE DE ARAGUAÍNA",
+    "Sigla": "FAHESA / ITPAC",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS ESUDA",
+    "Sigla": "FCHE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS HUMANAS EXATAS E LETRAS DE RONDÔNIA",
+    "Sigla": "FARO",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS JURÍDICAS DE ALAGOAS",
+    "Sigla": "FCJAL",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS JURÍDICAS DE PARAÍSO DO TOCANTINS",
+    "Sigla": "FCJP",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS JURÍDICAS DE SANTOS DUMONT",
+    "Sigla": "FCJSD",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS JURÍDICAS E GERENCIAIS DE GARÇA",
+    "Sigla": "FAEG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS JURÍDICAS E SOCIAIS APLICADAS DE PRIMAVERA DO LESTE",
+    "Sigla": "FCJSA",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS JURÍDICAS E SOCIAIS APLICADAS DO ARAGUAIA",
+    "Sigla": "FACULDADES CATHEDRAL",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS JURÍDICAS E SOCIAIS DE MACEIÓ",
+    "Sigla": "FAMA",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS JURÍDICAS PROFESSOR ALBERTO DEODATO",
+    "Sigla": "FCJPAD",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS MÉDICAS DA SANTA CASA SÃO PAULO",
+    "Sigla": "FCMSCSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS MÉDICAS DE CAMPINA GRANDE",
+    "Sigla": "FCM",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS MÉDICAS DE MINAS GERAIS",
+    "Sigla": "FCMMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS MÉDICAS DE PERNAMBUCO",
+    "Sigla": "FCM",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS MÉDICAS E DA SAÚDE DE JUIZ DE FORA",
+    "Sigla": "FCMS/JF",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS MÉDICAS E PARAMÉDICAS FLUMINENSE",
+    "Sigla": "SEFLU",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SAÚDE EXATAS E JURÍDICAS DE TERESINA",
+    "Sigla": "FACULDADE CEUT",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS DO SUL DE MINAS",
+    "Sigla": "FACESM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS DO VALE DO SÃO LOURENÇO",
+    "Sigla": "EDUVALE",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS E DE TECNOLOGIAS DE AGUA BOA",
+    "Sigla": "FACESA",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS",
+    "Sigla": "FACISA",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS DE FLORIANÓPOLIS",
+    "Sigla": "FCSF",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS DE GUARANTÃ DO NORTE",
+    "Sigla": "FCSGN",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS DOS PALMARES",
+    "Sigla": "FACIP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS E AGRÁRIAS DE ITAPEVA",
+    "Sigla": "FAIT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS E HUMANAS SOBRAL PINTO",
+    "Sigla": "FAIESP",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS SOCIAIS E TECNOLÓGICAS",
+    "Sigla": "FACITEC",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE DE CIÊNCIAS TECNOLÓGICAS DE FORTALEZA",
+    "Sigla": "FCTFOR",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE COLIDER",
+    "Sigla": "FACIDER",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE COMPUTAÇÃO DE MONTES CLAROS",
+    "Sigla": "FACOMP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE COMPUTAÇÃO E INFORMÁTICA DA FUNDAÇÃO ARMANDO ALVARES PENTEADO",
+    "Sigla": "FCI-FAAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE COMUNICAÇÃO E MARKETING DA - FUNDAÇÃO ARMANDO ÁLVARES PENTEADO",
+    "Sigla": "FACOM-FAAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE COMUNICAÇÃO E TURISMO DE OLINDA",
+    "Sigla": "FACOTTUR",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE COMUNICAÇÃO PITÁGORAS UNIDADE GUARAPARI",
+    "Sigla": "PIT GUARAPARI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE COMUNICAÇÃO SOCIAL DE PASSOS",
+    "Sigla": "FACOMP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DESENVOLVIMENTO DO RIO GRANDE DO SUL",
+    "Sigla": "FADERGS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DE DESENVOLVIMENTO E INTEGRAÇÃO REGIONAL",
+    "Sigla": "FADIRE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE DESENVOLVIMENTO SUSTENTÁVEL DE CRUZEIRO DO SUL",
+    "Sigla": "IEVAL",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE CACHOEIRO DO ITAPEMIRIM",
+    "Sigla": "FDCI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE CARUARU",
+    "Sigla": "FADICA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE CONSELHEIRO LAFAIETE",
+    "Sigla": "FDCL",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE FRANCA",
+    "Sigla": "FDF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE GARANHUNS",
+    "Sigla": "FDG",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE IPATINGA",
+    "Sigla": "FADIPA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE ITÚ",
+    "Sigla": "FADITU",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE SANTA MARIA",
+    "Sigla": "FADISMA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE SOROCABA",
+    "Sigla": "FADI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE SÃO BERNARDO DO CAMPO",
+    "Sigla": "FDSBC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE TANGARÁ DA SERRA",
+    "Sigla": "UNIC",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DE VARGINHA - FADIVA",
+    "Sigla": "FADIVA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DO SUL DE MINAS",
+    "Sigla": "FDSM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO DO VALE DO RIO DOCE",
+    "Sigla": "FADIVALE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO E CIÊNCIAS SOCIAIS DO LESTE DE MINAS - FADILESTE",
+    "Sigla": "FADILESTE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO FRANCISCO BELTRÃO",
+    "Sigla": "CESUL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO MILTON CAMPOS",
+    "Sigla": "FDMC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO PADRE ARNALDO JANSSEN",
+    "Sigla": "FAJANSSEN",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE DIREITO UNIDADE GUARAPARI",
+    "Sigla": "FADIG",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE DUQUE DE CAXIAS",
+    "Sigla": "FDC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE ECONOMIA E FINANÇAS DO RIO DE JANEIRO",
+    "Sigla": "FEFRJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE ECONOMIA E FINANÇAS IBMEC",
+    "Sigla": "FACULDADES IBMEC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE ECONOMIA E PROCESSAMENTO DE DADOS DE FOZ DO IGUAÇU",
+    "Sigla": "FEPI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO ADMINISTRAÇÃO E TECNOLOGIA DE IBAITI",
+    "Sigla": "FEATI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO CIÊNCIAS E ARTES DOM BOSCO DE MONTE APRAZÍVEL",
+    "Sigla": "FAECA DOM BOSCO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO CIÊNCIAS E LETRAS DE PARAÍSO",
+    "Sigla": "FECIPAR",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE ASSIS",
+    "Sigla": "FAEDA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE BACABAL - FEBAC",
+    "Sigla": "FEBAC",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE BOM DESPACHO",
+    "Sigla": "FACEB",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE COLORADO DO OESTE",
+    "Sigla": "FAEC",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE COSTA RICA",
+    "Sigla": "FECRA",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE GUARATINGUETÁ",
+    "Sigla": "FACEG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE JARU",
+    "Sigla": "UNICENTRO",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE NOVA ANDRADINA",
+    "Sigla": "FENA",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO DE PORTO VELHO",
+    "Sigla": "UNIRON",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO E CIÊNCIAS GERENCIAIS DE SÃO PAULO",
+    "Sigla": "FECG-SP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO E CIÊNCIAS HUMANAS DE ANICUNS",
+    "Sigla": "FECHA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO E CULTURA DE VILHENA",
+    "Sigla": "FAEV/UNESC",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO E ESTUDOS SOCIAIS DE GOVERNADOR VALADARES",
+    "Sigla": "FUNEES G. Valadares",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO E ESTUDOS SOCIAIS DE UBERLÂNDIA",
+    "Sigla": "FUNEES Uberlândia",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO E MEIO AMBIENTE",
+    "Sigla": "FAEMA",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO FÍSICA DA ASSOCIAÇÃO CRISTÃ DE MOÇOS DE SOROCABA",
+    "Sigla": "FEFISO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO FÍSICA DE BARRA BONITA",
+    "Sigla": "FAEFI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO REGIONAL SERRANA",
+    "Sigla": "FUNPAC",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO SUPERIOR DE TIMBAÚBA",
+    "Sigla": "FAEST",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO SUPERIOR DO PARANÁ",
+    "Sigla": "FESPPR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO SÃO FRANCISCO",
+    "Sigla": "FAESF",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO SÃO LUÍS",
+    "Sigla": "FESL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO TECNOLÓGICA DO ESTADO DO RIO DE JANEIRO",
+    "Sigla": "FAETERJ PARACAMBI",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE EDUCAÇÃO",
+    "Sigla": "ISECUB",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE ENFERMAGEM DE BELO JARDIM",
+    "Sigla": "FAEB",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE ENFERMAGEM DE PASSOS",
+    "Sigla": "FAENPA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ENFERMAGEM E MEDICINA NOVA ESPERANÇA DE MOSSORÓ",
+    "Sigla": "Facene",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE DE ENFERMAGEM LUIZA DE MARILLAC",
+    "Sigla": "FELM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE ENFERMAGEM NOSSA SENHORA DAS GRAÇAS",
+    "Sigla": "FENSG",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE ENFERMAGEM NOVA ESPERANÇA",
+    "Sigla": "FACENE",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE DE ENFERMAGEM SÃO VICENTE DE PAULA",
+    "Sigla": "FESVIP",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE DE ENGENHARIA DE MINAS GERAIS",
+    "Sigla": "FEMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ENGENHARIA DE PASSOS",
+    "Sigla": "FEP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ENGENHARIA DE RESENDE",
+    "Sigla": "FER",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE ENGENHARIA DE SOROCABA",
+    "Sigla": "FACENS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ENGENHARIA SOUZA MARQUES",
+    "Sigla": "FESM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE ENGENHARIA SÃO PAULO",
+    "Sigla": "FESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO E CULTURA DO CEARÁ",
+    "Sigla": "FAECE",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR DA AMAZÔNIA",
+    "Sigla": "FESAM",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR DA CIDADE DE FEIRA DE SANTANA",
+    "Sigla": "FAESF/UNEF",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR DA PARAÍBA",
+    "Sigla": "FESP",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR DE FLORIANO",
+    "Sigla": "FAESF",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR DE MARECHAL CÂNDIDO RONDON",
+    "Sigla": "ISEPE RONDON",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR DE SÃO MIGUEL DO IGUAÇU",
+    "Sigla": "FAESI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR DO INTERIOR PAULISTA",
+    "Sigla": "FAIP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR E FORMAÇÃO INTEGRAL",
+    "Sigla": "FAEF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO SUPERIOR SANTA BARBARA",
+    "Sigla": "FAESB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ENSINO TECNOLÓGICO DO ESTADO DO PARÁ",
+    "Sigla": "FACETE",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE DE ESTUDOS ADMINISTRATIVOS DE MINAS GERAIS",
+    "Sigla": "FEAD",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ESTUDOS AVANÇADOS DO PARÁ",
+    "Sigla": "FEAPA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE DE ESTUDOS SOCIAIS APLICADOS DE VIANA",
+    "Sigla": "FESAV",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE ESTUDOS SOCIAIS DO ESPÍRITO SANTO",
+    "Sigla": "PIO XII",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE ESTUDOS SUPERIORES DE MINAS GERAIS",
+    "Sigla": "FEAD",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE EXCELÊNCIA DO RIO GRANDE DO NORTE",
+    "Sigla": "Fatern Gama Filho",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE ALEGRE",
+    "Sigla": "FAFIA",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE CARUARU",
+    "Sigla": "FAFICA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE IBITINGA",
+    "Sigla": "FAIBI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE SÃO JOSÉ DO RIO PARDO",
+    "Sigla": "FFCL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS NOSSA SENHORA APARECIDA",
+    "Sigla": "FNSA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS SOUZA MARQUES",
+    "Sigla": "FFCLSM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA DE PASSOS",
+    "Sigla": "FAFIPA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA E CIÊNCIAS HUMANAS DE GOIATUBA",
+    "Sigla": "FAFICH",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA E TEOLOGIA PAULO VI",
+    "Sigla": "FFTP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE FILOSOFIA SANTA DOROTEIA",
+    "Sigla": "FFSD",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE FORMAÇÃO DE PROFESSORES DA MATA SUL",
+    "Sigla": "FAMASUL",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FORMAÇÃO DE PROFESSORES DE AFOGADOS DA INGAZEIRA",
+    "Sigla": "FAFOPAI",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FORMAÇÃO DE PROFESSORES DE ARARIPINA",
+    "Sigla": "FAFOPA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FORMAÇÃO DE PROFESSORES DE BELO JARDIM",
+    "Sigla": "FABEJA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FORMAÇÃO DE PROFESSORES DE GOIANA",
+    "Sigla": "FFPG",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FORMAÇÃO DE PROFESSORES DE NAZARÉ DA MATA",
+    "Sigla": "FFPNM",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FORMAÇÃO DE PROFESSORES DE PETROLINA",
+    "Sigla": "Faculdade de Formação de Professores de Petrolina",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FORMAÇÃO DE PROFESSORES DE SERRA TALHADA",
+    "Sigla": "FAFOPST",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE FORTALEZA",
+    "Sigla": "FAFOR",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE GETÚLIO VARGAS",
+    "Sigla": "FACULDADE IDEAU",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DE GOIÂNIA - UNIDADE 1",
+    "Sigla": "FAG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE GUANAMBI",
+    "Sigla": "FG",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE ILHA SOLTEIRA",
+    "Sigla": "FAISA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE IMPERATRIZ",
+    "Sigla": "FACIMP",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE DE INFORMÁTICA DE OURO PRETO DO OESTE",
+    "Sigla": "FIOURO",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE INFORMÁTICA DE PASSOS",
+    "Sigla": "FIP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE INFORMÁTICA DO RECIFE",
+    "Sigla": "FACIR",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE INFORMÁTICA LEMOS DE CASTRO",
+    "Sigla": "FILC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE INHUMAS - FAC-MAIS",
+    "Sigla": "FACMAIS",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE INTEGRAÇÃO DO SERTÃO",
+    "Sigla": "FIS",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE IPORÁ",
+    "Sigla": "FAI",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE ITAITUBA",
+    "Sigla": "FAI",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE DE ITAPECERICA DA SERRA",
+    "Sigla": "FIT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ITAPIRANGA",
+    "Sigla": "SEI/FAI",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DE ITÁPOLIS - FACITA",
+    "Sigla": "FACITA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE JABOTICABAL",
+    "Sigla": "FAJAB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE JAGUARIÚNA",
+    "Sigla": "FAJ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE JANDAIA DO SUL",
+    "Sigla": "FAFIJAN",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE JOSÉ BONIFÁCIO",
+    "Sigla": "FJB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE JUAZEIRO DO NORTE",
+    "Sigla": "FJN",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE JUNQUEIRÓPOLIS",
+    "Sigla": "ISEJ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE JUSSARA",
+    "Sigla": "FAJ",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE MACAPÁ",
+    "Sigla": "FAMA",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DE BARBACENA",
+    "Sigla": "FUNJOB",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DE CAMPOS",
+    "Sigla": "FMC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DE ITAJUBÁ",
+    "Sigla": "FMIT",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DE JUAZEIRO DO NORTE",
+    "Sigla": "FMJ",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DE JUNDIAÍ",
+    "Sigla": "FMJ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DE MARÍLIA",
+    "Sigla": "FAMEMA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DE PETRÓPOLIS",
+    "Sigla": "FMP",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO",
+    "Sigla": "FAMERP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE MEDICINA DO ABC",
+    "Sigla": "FMABC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE MINAS",
+    "Sigla": "FAMINAS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE MIRANDÓPOLIS",
+    "Sigla": "FAM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE MODA DE PASSOS",
+    "Sigla": "FAMOPA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE MONTE ALTO",
+    "Sigla": "FMA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE MÚSICA DO ESPÍRITO SANTO",
+    "Sigla": "FAMES",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DE NANUQUE",
+    "Sigla": "FANAN",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE NATAL",
+    "Sigla": "FAL",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE DE NOVA SERRANA",
+    "Sigla": "FANS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE NUTRIÇÃO DA FUNDAÇÃO DE ENSINO SUPERIOR DE PASSOS",
+    "Sigla": "FANUTRI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE ODONTOLOGIA DE CARUARU",
+    "Sigla": "FOC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE ODONTOLOGIA DE MANAUS",
+    "Sigla": "Fom",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE DE ODONTOLOGIA DE PERNAMBUCO",
+    "Sigla": "FOP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE ODONTOLOGIA DO RECIFE",
+    "Sigla": "FOR",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE ODONTOLOGIA E CENTRO DE PESQUISAS ODONTOLÓGICAS SÃO LEOPOLDO MANDIC",
+    "Sigla": "SLMANDIC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE OLINDA",
+    "Sigla": "FOCCA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE ORLÂNDIA",
+    "Sigla": "FAO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE PALMAS",
+    "Sigla": "FAPAL",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE DE PATO BRANCO",
+    "Sigla": "FADEP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE PAULÍNIA",
+    "Sigla": "FACP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE PEDAGOGIA",
+    "Sigla": "ANAEC",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE DE PIMENTA BUENO",
+    "Sigla": "FAP",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE PINDAMONHANGABA",
+    "Sigla": "FAPI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE PONTA PORÃ",
+    "Sigla": "FAP",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE DE PORTO VELHO",
+    "Sigla": "FIP",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE PRESIDENTE EPITÁCIO - FAPE",
+    "Sigla": "FAPE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE PRESIDENTE VENCESLAU",
+    "Sigla": "FAPREV",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE PRIMAVERA",
+    "Sigla": "CESPRI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE QUATRO MARCOS",
+    "Sigla": "FQM",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE REABILITAÇÃO DA ASCE",
+    "Sigla": "FRASCE",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE REALEZA",
+    "Sigla": "CESREAL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE RIBEIRÃO PRETO",
+    "Sigla": "AFARP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE ROLIM DE MOURA",
+    "Sigla": "FAROL",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE RONDÔNIA",
+    "Sigla": "FARO",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE DE ROSEIRA",
+    "Sigla": "FARO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE SABARÁ",
+    "Sigla": "SOECS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE SAÚDE CIÊNCIAS HUMANAS E TECNOLÓGICAS DO PIAUÍ",
+    "Sigla": "Novafapi",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE DE SAÚDE DE SÃO PAULO",
+    "Sigla": "FASSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE SAÚDE E DESENVOLVIMENTO HUMANO SANTO AGOSTINHO",
+    "Sigla": "FS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE SAÚDE IBITURUNA",
+    "Sigla": "FASI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE SERGIPE",
+    "Sigla": "FaSe",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE DE SERVIÇO SOCIAL DE PASSOS",
+    "Sigla": "FASESP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE SORRISO",
+    "Sigla": "FAIS",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DE SÃO BENTO DO RIO DE JANEIRO",
+    "Sigla": "FSB/RJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE DE SÃO JOSÉ DOS CAMPOS",
+    "Sigla": "BILAC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE SÃO LOURENÇO",
+    "Sigla": "FASAMA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE SÃO ROQUE",
+    "Sigla": "FAEV",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE SÃO VICENTE",
+    "Sigla": "FSV",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TALENTOS HUMANOS",
+    "Sigla": "FACTHUS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE TAQUARITINGA",
+    "Sigla": "FTGA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA APOENA",
+    "Sigla": "FTA",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA BANDEIRANTES",
+    "Sigla": "BANDTEC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA CENTEC",
+    "Sigla": "CENTEC",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DA PARAÍBA",
+    "Sigla": "FATECPB",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE BOTUCATU",
+    "Sigla": "FATEC BT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE CARAPICUIBA",
+    "Sigla": "FATEC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE GUARATINGUETÁ",
+    "Sigla": "FATEC GT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE ITAPETININGA - PROF.ANTÔNIO BELIZANDRO BARBOSA REZENDE",
+    "Sigla": "Fatec - Itapetininga",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE ITAQUAQUECETUBA",
+    "Sigla": "Fatec Itaqua",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE JACAREÍ",
+    "Sigla": "ETEP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE JUNDIAÍ",
+    "Sigla": "FATEC/JD",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE MINAS GERAIS",
+    "Sigla": "FATEMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE MOGI DAS CRUZES",
+    "Sigla": "FATEC-MC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE PIRACICABA",
+    "Sigla": "Fatec Piracicaba",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE PORTO ALEGRE",
+    "Sigla": "FAQI",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE SÃO BERNARDO DO CAMPO",
+    "Sigla": "FATEC-SB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE SÃO JOSÉ DO RIO PRETO",
+    "Sigla": "FATECRP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE SÃO JOSÉ DOS CAMPOS",
+    "Sigla": "ETEP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE SÃO SEBASTIÃO",
+    "Sigla": "Fatec SS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE TAQUARITINGA",
+    "Sigla": "FATEC/TQ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE TATUÍ - PROF. WILSON ROBERTO RIBEIRO DE CAMARGO",
+    "Sigla": "FATEC TATUÍ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DE VALENÇA",
+    "Sigla": "FACTIVA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DO COMÉRCIO",
+    "Sigla": "FATEC-COMERCIO",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DO ESTADO DE SÃO PAULO",
+    "Sigla": "FATEC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DO IPIRANGA",
+    "Sigla": "FATECIPI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DO NORDESTE",
+    "Sigla": "FATENE",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DO PIAUÍ",
+    "Sigla": "FATEPI",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA DR. THOMAZ NOVELINO",
+    "Sigla": "FATEC Franca",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA E CIENCIAS DO NORTE DO PARANÁ",
+    "Sigla": "FATECIE",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA E CIÊNCIAS DE PERNAMBUCO",
+    "Sigla": "FATEC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA E CIÊNCIAS",
+    "Sigla": "FTC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA E CIÊNCIAS",
+    "Sigla": "FTCEAD",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA E GESTÃO",
+    "Sigla": "FATEG",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA E NEGÓCIOS CARLOS DRUMMOND DE ANDRADE",
+    "Sigla": "FTNCDA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA EGÍDIO JOSÉ DA SILVA",
+    "Sigla": "FATEGIDIO",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA EM HOTELARIA GASTRONOMIA E TURISMO DE SÃO PAULO",
+    "Sigla": "HOTEC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA EMPRESARIAL",
+    "Sigla": "FTEBA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA ESTUDANTE RAFAEL ALMEIDA CAMARINHA - MARILIA",
+    "Sigla": "Fatec Marilia",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA EVOLUÇÃO",
+    "Sigla": "FECET",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA FAMA",
+    "Sigla": "FAMA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA FRANCISCO MORATO",
+    "Sigla": "FFRAMO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA GESTÃO & MARKETING",
+    "Sigla": "IBGM / FGM",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA IBRATEC",
+    "Sigla": "UNIBRATEC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA IBTA CAMPINAS",
+    "Sigla": "IBTA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA INESUL DO PARANÁ",
+    "Sigla": "FIPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA INFORMÁTICA",
+    "Sigla": "FATI",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA INTENSIVA",
+    "Sigla": "FATECI",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA INTERNACIONAL DE CURITIBA",
+    "Sigla": "FATEC Internacional",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA LA SALLE - ESTRELA",
+    "Sigla": "FACSALLE",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA LOURENÇO FILHO",
+    "Sigla": "FATEC FLF",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA OSWALDO CRUZ",
+    "Sigla": "FATEC OSWALDO CRUZ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA PEDRO ROGÉRIO GARCIA",
+    "Sigla": "FATTEP",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA PENTÁGONO",
+    "Sigla": "FATEP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA PROF. LUIZ ROSA",
+    "Sigla": "FATEC Luiz Rosa",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA RUBENS LARA",
+    "Sigla": "FATEC-BS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SAINT PASTOUS",
+    "Sigla": "FSP",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SENAC BLUMENAU",
+    "Sigla": "SENAC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SENAC FLORIANÓPOLIS",
+    "Sigla": "SENAC FLORIANÓPOLIS",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SENAC SÃO MIGUEL DO OESTE",
+    "Sigla": "SENAC SÃO MIGUEL",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SENAI BELO HORIZONTE",
+    "Sigla": "FATEC SENAI BH",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SENAI CHAPECÓ",
+    "Sigla": "SENAI",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SENAI DE DESENVOLVIMENTO GERENCIAL",
+    "Sigla": "FATESG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SENAI ROBERTO MANGE",
+    "Sigla": "FATEC SENAI RM",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA SENAI ÍTALO BOLOGNA",
+    "Sigla": "FATECIB",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA TECBRASIL",
+    "Sigla": "FTEC",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA TECMED",
+    "Sigla": "TECMED",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA TERMOMECANICA",
+    "Sigla": "FTT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA ZONA LESTE",
+    "Sigla": "FATEC-ZL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECNOLOGIA ÁLVARES DE AZEVEDO",
+    "Sigla": "FAATESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TECONOLOGIA DA ZONA SUL",
+    "Sigla": "FATEC ZONASUL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TELÊMACO BORBA",
+    "Sigla": "FATEB",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DE TEOLOGIA E CIÊNCIAS",
+    "Sigla": "FATEC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE TEOLOGIA FILOSOFIA E CIÊNCIAS HUMANAS GAMALIEL",
+    "Sigla": "FATEFIG",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE DE TEOLOGIA INTEGRADA",
+    "Sigla": "FATIN",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DE TUPI PAULISTA",
+    "Sigla": "CESTUPI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE VINHEDO",
+    "Sigla": "FV",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DE VIÇOSA",
+    "Sigla": "FDV",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DECISION DE NEGÓCIOS",
+    "Sigla": "FACULDADE DECISION",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DECISÃO",
+    "Sigla": "FADE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DEHONIANA",
+    "Sigla": "DEHONIANA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DEL REY",
+    "Sigla": "FDR",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DELTA",
+    "Sigla": "FACDELTA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DIADEMA",
+    "Sigla": "FAD",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DINÂMICA DO VALE DO PIRANGA",
+    "Sigla": "FADIP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DIOCESANA SÃO JOSÉ",
+    "Sigla": "FADISI",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE DIVINÓPOLIS",
+    "Sigla": "FACED",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DO ACRE",
+    "Sigla": "FAC",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE DO AGRESTE DE PERNAMBUCO",
+    "Sigla": "FAAPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DO AMAZONAS",
+    "Sigla": "Iaes",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE DO BAIXO PARNAÍBA",
+    "Sigla": "FAP",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE DO BICO DO PAPAGAIO",
+    "Sigla": "FABIC",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE DO CENTRO EDUCACIONAL MINEIRO - FACEM",
+    "Sigla": "FACEM-BH",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DO CENTRO LESTE",
+    "Sigla": "UCL",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DO CLUBE NÁUTICO MOGIANO",
+    "Sigla": "FCNM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DO DESCOBRIMENTO",
+    "Sigla": "FACDESCO",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DO ESTADO DO MARANHÃO",
+    "Sigla": "FACEM",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE DO FUTURO",
+    "Sigla": "FAF",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DO GUARUJÁ",
+    "Sigla": "FAGU",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DO INSTITUTO BRASIL",
+    "Sigla": "FIBRA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DO INSTITUTO NACIONAL DE PÓS-GRADUAÇÃO DE SÃO JOSÉ DOS CAMPOS",
+    "Sigla": "FACULDADE INPG - SJC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DO LITORAL CATARINENSE",
+    "Sigla": "FLC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DO LITORAL PARANAENSE",
+    "Sigla": "FLP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DO LITORAL SUL PAULISTA",
+    "Sigla": "FALS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DO MEIO AMBIENTE E DE TECNOLOGIA DE NEGOCIOS",
+    "Sigla": "FAMATEC",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE DO NOROESTE DE MINAS",
+    "Sigla": "FINOM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DO NOROESTE PARANAENSE",
+    "Sigla": "FANP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DO NORTE GOIANO",
+    "Sigla": "FNG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DO NORTE NOVO DE APUCARANA",
+    "Sigla": "FACNOPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DO NORTE PIONEIRO",
+    "Sigla": "FANORPI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DO PANTANAL MATOGROSSENSE",
+    "Sigla": "FAPAN",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE DO SUDESTE GOIANO",
+    "Sigla": "FASUG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE DO SUDESTE MINEIRO",
+    "Sigla": "FACSUM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DO SUL DA BAHIA",
+    "Sigla": "FASB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DO SUL",
+    "Sigla": "FACSUL",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DO TAPAJÓS",
+    "Sigla": "FAT",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE DO TRABALHO",
+    "Sigla": "FATRA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DO VALE DO IPOJUCA",
+    "Sigla": "FAVIP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DO VALE DO ITAJAÍ MIRIM",
+    "Sigla": "FAVIM",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE DO VALE DO ITAPECURÚ",
+    "Sigla": "FAI",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE ADMINISTRAÇÃO DA SERRA",
+    "Sigla": "DOCTUM",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE ADMINISTRAÇÃO E EDUCAÇÃO DE VITÓRIA",
+    "Sigla": "DOCTUM",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE CARANGOLA",
+    "Sigla": "DOCTUM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE DIREITO DA SERRA",
+    "Sigla": "DOCTUM",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE JOÃO MONLEVADE",
+    "Sigla": "DOCTUM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE JUIZ DE FORA",
+    "Sigla": "DOCTUM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE MANHUAÇU",
+    "Sigla": "DOCTUM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE VILA VELHA",
+    "Sigla": "DOCTUM",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DOCTUM DE VITÓRIA",
+    "Sigla": "DOCTUM",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE DOIS DE JULHO",
+    "Sigla": "F2J",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DOM ALBERTO",
+    "Sigla": "FDA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DOM BOSCO",
+    "Sigla": "FDB",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE DOM LUIS DE ORLEANS E BRAGANÇA",
+    "Sigla": "FARRP",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DOM PEDRO II DE TECNOLOGIA",
+    "Sigla": "FAB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DOM PEDRO II",
+    "Sigla": "FDPII",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE DOS CERRADOS PIAUIENSES",
+    "Sigla": "FCP",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE DOS GUARARAPES",
+    "Sigla": "FG",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE DOS IMIGRANTES - FAI",
+    "Sigla": "FAI",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE DOUTOR FRANCISCO MAEDA",
+    "Sigla": "FAFRAM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE DOUTOR LEOCÁDIO JOSÉ CORREIA",
+    "Sigla": "FALEC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ECOAR",
+    "Sigla": "FAECO",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE EDUCACIONAL DA LAPA",
+    "Sigla": "FAEL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EDUCACIONAL DE ARAPOTI",
+    "Sigla": "FATI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EDUCACIONAL DE COLOMBO",
+    "Sigla": "FAEC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EDUCACIONAL DE CORNÉLIO PROCÓPIO",
+    "Sigla": "FACED",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EDUCACIONAL DE DOIS VIZINHOS",
+    "Sigla": "FAED",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EDUCACIONAL DE FRANCISCO BELTRÃO",
+    "Sigla": "FEFB",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EDUCACIONAL DE MEDIANEIRA",
+    "Sigla": "FACEMED",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EDUCACIONAL DE PONTA GROSSA",
+    "Sigla": "UNIÃO",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EDUCAÇÃO FÍSICA DE PASSOS",
+    "Sigla": "FADEF",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE EDUVALE DE AVARÉ",
+    "Sigla": "EDUVALE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE EMPRESARIAL DE CHAPECÓ",
+    "Sigla": "FAEM",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE ENIAC",
+    "Sigla": "ENIAC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ENTRE RIOS DO PIAUÍ",
+    "Sigla": "FAERPI",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE EQUIPE",
+    "Sigla": "FAE",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE ERNESTO RISCALI",
+    "Sigla": "FAER",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ESAMC SANTOS",
+    "Sigla": "ESAMC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ESAMC SOROCABA",
+    "Sigla": "ESAMC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ESAMC UBERLÂNDIA",
+    "Sigla": "ESAMC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE ESCOLA PAULISTA DE DIREITO",
+    "Sigla": "FACEPD",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ESCRITOR OSMAN DA COSTA LINS",
+    "Sigla": "FACOL",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE ESPECIALIZADA NA ÁREA DE SAÚDE DO RIO GRANDE DO SUL",
+    "Sigla": "FASURGS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE ESPÍRITO SANTENSE",
+    "Sigla": "UNICAPE",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE ESTADUAL DE CIÊNCIAS E LETRAS DE CAMPO MOURÃO",
+    "Sigla": "FECILCAM",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ESTADUAL DE CIÊNCIAS ECONÔMICAS DE APUCARANA",
+    "Sigla": "FECEA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ESTADUAL DE FILOSOFIA CIÊNCIAS E LETRAS DE PARANAGUÁ",
+    "Sigla": "FAFIPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ESTADUAL DE FILOSOFIA CIÊNCIAS LETRAS UNIÃO DA VITÓRIA",
+    "Sigla": "FAFIUV",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ESTAÇÃO",
+    "Sigla": "FAEST",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO COTIA",
+    "Sigla": "Estácio FAAC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DA AMAZÔNIA",
+    "Sigla": "Estácio Atual",
+    "Uf": "RR"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DA PARAÍBA",
+    "Sigla": "ESTÁCIO PARAÍBA",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE ALAGOAS - ESTÁCIO FAL",
+    "Sigla": "ESTÁCIO FAL",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE CURITIBA",
+    "Sigla": "ESTÁCIO CURITIBA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE SANTO ANDRÉ",
+    "Sigla": "ESTÁCIO SANTO ANDRÉ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE SÁ DE CAMPO GRANDE",
+    "Sigla": "FESCG",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE SÁ DE GOIÁS",
+    "Sigla": "FESGO",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE SÁ DE JUIZ DE FORA",
+    "Sigla": "FESJF",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE SÁ DE OURINHOS",
+    "Sigla": "FAESO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE SÁ DE VILA VELHA",
+    "Sigla": "FESVV",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DE SÃO LUÍS",
+    "Sigla": "ESTÁCIO SÃO LUÍS",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DO AMAPÁ - ESTÁCIO FAMAP",
+    "Sigla": "ESTÁCIO FAMAP",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO DO RECIFE - ESTÁCIO FIR",
+    "Sigla": "Estácio FIR",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO EURO- PANAMERICANA DE HUMANIDADES E TECNOLOGIAS - ESTÁCIO EUROPAN",
+    "Sigla": "ESTÁCIO EUROPAN",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ESTÁCIO MONTESSORI DE IBIÚNA",
+    "Sigla": "ESTÁCIO FMI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE EUCLIDES DA CUNHA",
+    "Sigla": "FAEUC",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE EUROPÉIA DE ADMINISTRAÇÃO E MARKETING",
+    "Sigla": "FEPAM",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE EVANGÉLICA DE SALVADOR",
+    "Sigla": "FACESA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE EVANGÉLICA DO MEIO NORTE",
+    "Sigla": "FAEME",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE EVANGÉLICA DO PARANÁ",
+    "Sigla": "FEPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE EVANGÉLICA DO PIAUI",
+    "Sigla": "FAEPI",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE EVOLUTIVO",
+    "Sigla": "Face",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE EVOLUÇÃO ALTO OESTE POTIGUAR",
+    "Sigla": "FACEP",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE EÇA DE QUEIROS",
+    "Sigla": "FACEQ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE FACCAT",
+    "Sigla": "FACCAT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE FACTUM",
+    "Sigla": "Factum",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE FAPAN",
+    "Sigla": "FAPAN",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE FARIAS BRITO",
+    "Sigla": "FFB",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE FASIPE",
+    "Sigla": "FASIPE",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE FERNÃO DIAS",
+    "Sigla": "FAFE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE FILADÉLFIA",
+    "Sigla": "FAFIL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE FLEMING",
+    "Sigla": "SEF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE FOZ DO IGUAÇU",
+    "Sigla": "FAFIG",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE FRASSINETTI DO RECIFE",
+    "Sigla": "FAFIRE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE FRUTAL",
+    "Sigla": "FAF",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE FUCAPE",
+    "Sigla": "FUCAPE",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE GAMA E SOUZA",
+    "Sigla": "FGS",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE GENNARI E PEARTREE",
+    "Sigla": "FGP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE GEREMÁRIO DANTAS",
+    "Sigla": "SFNSC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE GLOBAL DE UMUARAMA",
+    "Sigla": "FGU",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE GUARAPUAVA",
+    "Sigla": "FG",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE GUARAÍ",
+    "Sigla": "FAG",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE GUILHERME GUIMBALA",
+    "Sigla": "FGG",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE HERRERO",
+    "Sigla": "FATEC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE HORIZONTES",
+    "Sigla": "FH",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE HÉLIO ROCHA",
+    "Sigla": "FHR",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE IBGEN - INSTITUTO BRASILEIRO DE GESTÃO DE NEGÓCIOS",
+    "Sigla": "IBGEN",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE IBGEN",
+    "Sigla": "IBGEN",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE ICESP",
+    "Sigla": "ICESP",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE IDEAL",
+    "Sigla": "FACI",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE IGUAÇU",
+    "Sigla": "FI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE IMPACTA TECNOLOGIA",
+    "Sigla": "FIT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE INDEPENDENTE DO NORDESTE",
+    "Sigla": "FAINOR",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE INED DE RIO CLARO",
+    "Sigla": "CBTA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE INEDI",
+    "Sigla": "CESUCA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE INESP - INSTITUTO NACIONAL DE ENSINO E PESQUISA",
+    "Sigla": "INESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA BRASIL AMAZÔNIA",
+    "Sigla": "FIBRA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA DA GRANDE FORTALEZA",
+    "Sigla": "FGF",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA DE ARAGUATINS",
+    "Sigla": "FAIARA",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA DE ENSINO SUPERIOR DE COLINAS",
+    "Sigla": "FIESC",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA DE PERNAMBUCO",
+    "Sigla": "FACIPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA DE SANTA MARIA",
+    "Sigla": "FISMA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA DO CEARÁ",
+    "Sigla": "Fic",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA DO RECIFE",
+    "Sigla": "FIR",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA EUCLIDES FERNANDES",
+    "Sigla": "FAJ",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA METROPOLITANA DE CAMPINAS",
+    "Sigla": "METROCAMP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA RIO BRANCO",
+    "Sigla": "FIRB",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADA TIRADENTES",
+    "Sigla": "FITS",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRADO DE CAMPO MOURÃO",
+    "Sigla": "CEI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRAL CANTAREIRA",
+    "Sigla": "F.I.C.",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRAL DIFERENCIAL",
+    "Sigla": "FACID",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE INTEGRAÇÃO TIETE",
+    "Sigla": "FIT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE INTERAMERICANA DE PORTO VELHO",
+    "Sigla": "UNIRON",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE INTERATIVA COC",
+    "Sigla": "UniCOC",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE INTERAÇÃO AMERICANA",
+    "Sigla": "FIA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE INTERMUNICIPAL DO NOROESTE DO PARANÁ",
+    "Sigla": "FACINOR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE INTERNACIONAL DA PARAÍBA",
+    "Sigla": "FPB",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE INTERNACIONAL DO DELTA",
+    "Sigla": "INTA",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE IPEMED DE CIÊNCIA MÉDICAS",
+    "Sigla": "IPEMED",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE IPIRANGA",
+    "Sigla": "FACIP",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE ISEIB DE BELO HORIZONTE",
+    "Sigla": "FIBH",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE ISRAELITA DE CIÊNCIAS DA SAÚDE EINSTEIN",
+    "Sigla": "FICSAE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ITABIRANA DE DESENVOLVIMENTO DAS CIÊNCIAS E TECNOLOGIAS",
+    "Sigla": "FATEC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE ITABORAÍ",
+    "Sigla": "OMNI",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE ITANHAÉM",
+    "Sigla": "FAITA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ITEANA DE BOTUCATU",
+    "Sigla": "FITB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ITOP",
+    "Sigla": "ITOP",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE JAGUARIAÍVA",
+    "Sigla": "FAJAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE JANGADA",
+    "Sigla": "FJ",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE JAPI",
+    "Sigla": "JAPI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE JESUÍTA DE FILOSOFIA E TEOLOGIA",
+    "Sigla": "FAJE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE JK - ASA NORTE",
+    "Sigla": "CENACAP",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE JK - BRASÍLIA - UNIDADE PLANO PILOTO",
+    "Sigla": "CENACAP",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE JK - GUARÁ",
+    "Sigla": "ESAMC BRASÍLIA",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE JK SOBRADINHO",
+    "Sigla": "FASEP",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE JOAQUIM NABUCO",
+    "Sigla": "FJN",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE JOSÉ AUGUSTO VIEIRA",
+    "Sigla": "FJAV",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE JOSÉ LACERDA FILHO DE CIÊNCIAS APLICADAS",
+    "Sigla": "FAJOLCA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE JUVÊNCIO TERRA",
+    "Sigla": "FJT",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE LA SALLE",
+    "Sigla": "Unisalle",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE LIONS",
+    "Sigla": "FAC-LIONS",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE LITERATUS",
+    "Sigla": "Fal",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE LS",
+    "Sigla": "FACELS",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE LUCIANO FEIJÃO",
+    "Sigla": "FLF",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE LUSOBRASILEIRA",
+    "Sigla": "FALUB",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE LUTERANA RUI BARBOSA",
+    "Sigla": "FALURB",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE LUTERANA SÃO MARCOS",
+    "Sigla": "FALSM",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE LÍDER",
+    "Sigla": "FAL",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE MACHADO DE ASSIS",
+    "Sigla": "FAMA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE MACHADO SOBRINHO",
+    "Sigla": "FMS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE MADRE TEREZA",
+    "Sigla": "FAMAT",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "FACULDADE MADRE THAIS",
+    "Sigla": "FMT",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE MARANHENSE SÃO JOSÉ DOS COCAIS",
+    "Sigla": "FSJ",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE MARECHAL RONDON",
+    "Sigla": "FMR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE MARIA MILZA",
+    "Sigla": "FAMAM",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE MARINGÁ",
+    "Sigla": "CESPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE MARIO SCHENBERG",
+    "Sigla": "FMS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE MARISTA",
+    "Sigla": "FMR",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE MARTHA FALCÃO",
+    "Sigla": "FMF",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE MATER DEI",
+    "Sigla": "FMD",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE MAURÍCIO DE NASSAU DE CAMPINA GRANDE",
+    "Sigla": "FMN CG",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE MAURÍCIO DE NASSAU DE JOÃO PESSOA",
+    "Sigla": "FMN JOÃO PESSOA",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE MAURÍCIO DE NASSAU DE LAURO FREITAS",
+    "Sigla": "FABAC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE MAURÍCIO DE NASSAU",
+    "Sigla": "UNINASSAU",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE MAUÁ DE BRASÍLIA",
+    "Sigla": "MAUADF",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE MAX PLANCK",
+    "Sigla": "FMP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE MERCÚRIO",
+    "Sigla": "FAMERC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE MERIDIONAL",
+    "Sigla": "IMED",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE META",
+    "Sigla": "Fameta",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE METODISTA DE CIÊNCIAS HUMANAS E EXATAS",
+    "Sigla": "METODISTA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE METODISTA DE SANTA MARIA",
+    "Sigla": "FAMES",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE METODISTA GRANBERY",
+    "Sigla": "FMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DA AMAZÔNIA",
+    "Sigla": "FAMAZ",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DA GRANDE RECIFE",
+    "Sigla": "UNESJ",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DE CAIEIRAS",
+    "Sigla": "FMC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DE CAMAÇARI",
+    "Sigla": "FAMEC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DE FORTALEZA",
+    "Sigla": "Fametro",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DE GUARAMIRIM",
+    "Sigla": "FAMEG",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DE MANAUS",
+    "Sigla": "Fametro",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DE MARINGÁ",
+    "Sigla": "UNIFAMMA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA DO PLANALTO NORTE",
+    "Sigla": "FAMEPLAN",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA LONDRINENSE",
+    "Sigla": "FML",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE METROPOLITANA",
+    "Sigla": "UNNESA",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE MINEIRENSE",
+    "Sigla": "FAMA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE MODELO",
+    "Sigla": "FACIMOD",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE MOGIANA DO ESTADO DE SÃO PAULO",
+    "Sigla": "FAMOESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE MONTEIRO LOBATO",
+    "Sigla": "FATO",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE MONTES BELOS",
+    "Sigla": "FMB",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE MONTESSORIANO DE SALVADOR",
+    "Sigla": "FAMA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE MORAES JÚNIOR - MACKENZIE RIO",
+    "Sigla": "FMJ - MACKENZIE RIO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE MORUMBI SUL",
+    "Sigla": "FMS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE MOZARTEUM DE SÃO PAULO",
+    "Sigla": "FAMOSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE MUNICIPAL DE PALHOÇA",
+    "Sigla": "FMP",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE MUNICIPAL PROFESSOR FRANCO MONTORO DE MOGI GUAÇU",
+    "Sigla": "FMPFM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE MURIALDO",
+    "Sigla": "FAMUR",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE MÉTODO DE SÃO PAULO",
+    "Sigla": "FAMESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE NACIONAL",
+    "Sigla": "FINAC",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE NATALENSE DE ENSINO E CULTURA",
+    "Sigla": "Fanec",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE NATALENSE PARA O DESENVOLVIMENTO DO RIO GRANDE DO NORTE",
+    "Sigla": "FARN",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "FACULDADE NETWORK",
+    "Sigla": "NWK",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE NOBRE DE FEIRA DE SANTANA",
+    "Sigla": "FAN",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE NOROESTE",
+    "Sigla": "FAN",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE NORTE CAPIXABA DE SAO MATEUS",
+    "Sigla": "MULTIVIX SÃO MATEUS",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE NORTE PARANAENSE",
+    "Sigla": "UNINORTE",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE NOSSA CIDADE",
+    "Sigla": "FNC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE NOSSA SENHORA APARECIDA",
+    "Sigla": "FANAP",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE NOSSA SENHORA DE FÁTIMA",
+    "Sigla": "FACULDADE FÁTIMA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE NOVA ROMA",
+    "Sigla": "FGV",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE NOVAUNESC",
+    "Sigla": "NOVAUNESC",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE NOVO HAMBURGO",
+    "Sigla": "FACULDADE IENH",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE NOVO MILÊNIO",
+    "Sigla": "FNM",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE OBOÉ - FACO",
+    "Sigla": "FACO",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE ORÍGENES LESSA",
+    "Sigla": "FACOL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PADRE ANCHIETA DE VÁRZEA PAULISTA",
+    "Sigla": "ANCHIETA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PADRE JOÃO BAGOZZI",
+    "Sigla": "FACULDADE BAGOZZI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE PADRÃO",
+    "Sigla": "FP",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE PALOTINA",
+    "Sigla": "FAPAS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE PAN AMAZÔNICA",
+    "Sigla": "FAPAN",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE PANAMERICANA DE JIPARANÁ",
+    "Sigla": "UNIJIPA",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE PARA O DESENVOLVIMENTO DE PERNAMBUCO",
+    "Sigla": "FADEPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE PARAENSE DE ENSINO",
+    "Sigla": "FAPEN",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADE PARANAPANEMA",
+    "Sigla": "FP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE PARAÍBANA",
+    "Sigla": "FAP",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE PARAÍSO DO CEARÁ",
+    "Sigla": "Fap",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE PARQUE",
+    "Sigla": "FAP",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE PAULISTA DE ARTES",
+    "Sigla": "FPA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PAULISTA DE EDUCAÇÃO E COMUNICAÇÃO",
+    "Sigla": "FAPEC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PAULISTA DE SERVIÇO SOCIAL",
+    "Sigla": "FAPSS-SP.",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PAULUS DE COMUNICAÇÃO E TECNOLOGIA",
+    "Sigla": "FAPCOM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PEDRO LEOPOLDO",
+    "Sigla": "FPL",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PENSAR",
+    "Sigla": "FP",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE PERNAMBUCANA",
+    "Sigla": "Fape",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE PERUIBE",
+    "Sigla": "FPBE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PHÊNIX DE CIÊNCIAS HUMANAS E SOCIAIS DO BRASIL",
+    "Sigla": "PHENIX",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE PIAGET",
+    "Sigla": "FACPIAGET",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PIAUIENSE DE PROCESSAMENTO DE DADOS",
+    "Sigla": "FPPD",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE PIAUIENSE",
+    "Sigla": "FAP",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE PINHALZINHO",
+    "Sigla": "HORUS",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE PINHEIRO GUIMARÃES",
+    "Sigla": "FAPG",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE PIO DÉCIMO",
+    "Sigla": "PIODECIMO",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE PITÁGORAS DE ADMINISTRAÇÃO SUPERIOR",
+    "Sigla": "FPAS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PITÁGORAS DE BELO HORIZONTE",
+    "Sigla": "FPAS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PITÁGORAS DE BETIM",
+    "Sigla": "PITÁGORAS-BETIM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PITÁGORAS DE DIVINÓPOLIS - FPD",
+    "Sigla": "FPD",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PITÁGORAS DE IMPERATRIZ",
+    "Sigla": "FAMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE PITÁGORAS DE IPATINGA",
+    "Sigla": "FPI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PITÁGORAS DE JUNDIAÍ",
+    "Sigla": "PIT JUNDIAÍ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE PITÁGORAS DE TEIXEIRA DE FREITAS",
+    "Sigla": "PIT TEIXEIRA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE POLITEC",
+    "Sigla": "FAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE POLITÉCNICA DE CAMPINAS",
+    "Sigla": "POLICAMP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE POLITÉCNICA DE UBERLÂNDIA",
+    "Sigla": "FPU",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PORTO ALGRENSE",
+    "Sigla": "FAPA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE PORTO DAS ÁGUAS",
+    "Sigla": "FAPAG",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE PRESBITERIANA GAMMON",
+    "Sigla": "FAGAMMON",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PRESIDENTE ANTÔNIO CARLOS DE AIMORÉS",
+    "Sigla": "FUNEC Aimorés",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PRESIDENTE ANTÔNIO CARLOS DE BOM DESPACHO",
+    "Sigla": "FAPACBD",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PRESIDENTE ANTÔNIO CARLOS DE GOVERNADOR VALADARES",
+    "Sigla": "FAU G. Valadares",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PRESIDENTE ANTÔNIO CARLOS DE RIBEIRÃO DAS NEVES",
+    "Sigla": "FUNEES R. das Neves",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PRESIDENTE ANTÔNIO CARLOS DE VÁRZEA DA PALMA",
+    "Sigla": "FEES Várzea da Palma",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PRINCESA DO OESTE",
+    "Sigla": "FPO",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE PROCESSUS",
+    "Sigla": "PFD",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE PROFESSOR MIGUEL ÂNGELO DA SILVA SANTOS",
+    "Sigla": "FEMASS",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE PROJEÇÃO DE CEILÂNDIA",
+    "Sigla": "FACEB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE PROJEÇÃO",
+    "Sigla": "FAPRO",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE PROMOVE DE JANAÚBA",
+    "Sigla": "ISEJAN",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PROMOVE DE MINAS GERAIS",
+    "Sigla": "FPMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE PROMOVE DE SETE LAGOAS",
+    "Sigla": "FSLMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE QUIRINÓPOLIS",
+    "Sigla": "FAQUI",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE RAIMUNDO MARINHO",
+    "Sigla": "FRM",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "FACULDADE RANCHARIENSE",
+    "Sigla": "FRAN",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE RAÍZES",
+    "Sigla": "SER",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE REDENTOR",
+    "Sigla": "FACREDENTOR",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE REGES DE DRACENA",
+    "Sigla": "FCGD",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE REGIONAL DA BAHIA",
+    "Sigla": "FARB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE REGIONAL DE ALAGOINHAS",
+    "Sigla": "FARAL",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE REGIONAL PALMITOS",
+    "Sigla": "FAP",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE REUNIDA",
+    "Sigla": "FAR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE RIO BRANCO",
+    "Sigla": "FARB",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "FACULDADE RORAIMENSE DE ENSINO SUPERIOR",
+    "Sigla": "FARES",
+    "Uf": "RR"
+  },
+  {
+    "Universidade": "FACULDADE RUY BARBOSA",
+    "Sigla": "FRB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE SABERES",
+    "Sigla": "SABERES",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE SALESIANA DE SANTA TERESA",
+    "Sigla": "FSST",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE SALESIANA DO NORDESTE",
+    "Sigla": "FASNE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE SALESIANA DOM BOSCO",
+    "Sigla": "FSDB",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE SALESIANA MARIA AUXILIADORA",
+    "Sigla": "FSMA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE SANT ANA",
+    "Sigla": "IESSA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE SANTA AMÉLIA",
+    "Sigla": "SECAL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE SANTA CATARINA",
+    "Sigla": "FASC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE SANTA CRUZ",
+    "Sigla": "FACRUZ",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE SANTA EMÍLIA DE RODAT",
+    "Sigla": "FASER",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE SANTA FÉ",
+    "Sigla": "CESSF",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE SANTA HELENA",
+    "Sigla": "FASH",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE SANTA IZILDINHA",
+    "Sigla": "FIESI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE SANTA LÚCIA",
+    "Sigla": "FCACSL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE SANTA MARCELINA",
+    "Sigla": "FASM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE SANTA MARIA",
+    "Sigla": "FSM",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE SANTA RITA DE CÁSSIA",
+    "Sigla": "UNIFASC",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE SANTA RITA",
+    "Sigla": "FASAR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE SANTA TEREZINHA",
+    "Sigla": "CEST",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE SANTA TEREZINHA",
+    "Sigla": "FEST",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE SANTO AGOSTINHO",
+    "Sigla": "FSA",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE SANTO ANTONIO",
+    "Sigla": "FSA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE SANTO ANTÔNIO DE PÁDUA",
+    "Sigla": "FASAP",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE SANTO AUGUSTO",
+    "Sigla": "FAISA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE SANT ANNA DE SALTO",
+    "Sigla": "FASAS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE SANTÍSSIMO SACRAMENTO",
+    "Sigla": "FSSS",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE SATC",
+    "Sigla": "FASATC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE SEAMA",
+    "Sigla": "SEAMA",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "FACULDADE SENAC MINAS",
+    "Sigla": "FSM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE SENAC PERNAMBUCO",
+    "Sigla": "SENAC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE SENAC PORTO ALEGRE - FSPOA",
+    "Sigla": "SENAC/RS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE SENAI-CETIQT",
+    "Sigla": "SENAI-CETIQT",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE SERGIPANA",
+    "Sigla": "FASER",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE SERIGY",
+    "Sigla": "FASERGY",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE SERRA DO CARMO",
+    "Sigla": "FASEC",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE SERRANA",
+    "Sigla": "FASEP",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADE SINERGIA",
+    "Sigla": "SINERGIA",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE SINOP",
+    "Sigla": "FASIP",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADE SOCIAL DA BAHIA",
+    "Sigla": "FSBA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE SOCIESC DE CURITIBA",
+    "Sigla": "SOCIESC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE SOCIESC",
+    "Sigla": "UNICA",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE SUDAMÉRICA",
+    "Sigla": "SUDAMÉRICA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE SUDOESTE PAULISTA",
+    "Sigla": "FSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE SUL BRASIL",
+    "Sigla": "FASUL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE SUL FLUMINENSE",
+    "Sigla": "FASF",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE SULAMERICANA",
+    "Sigla": "FASAM",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE SUMARÉ",
+    "Sigla": "ISES",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE SÃO BENTO DA BAHIA",
+    "Sigla": "FSBB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE SÃO CAMILO",
+    "Sigla": "FSC SALVADOR",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE SÃO FRANCISCO DA PARAÍBA",
+    "Sigla": "FASP",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADE SÃO FRANCISCO DE ASSIS",
+    "Sigla": "UNIFIN",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE SÃO FRANCISCO DE BARREIRAS - FASB",
+    "Sigla": "FASB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE SÃO FRANCISCO DE PIUMHI",
+    "Sigla": "FASPI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE SÃO GABRIEL",
+    "Sigla": "FSG",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "FACULDADE SÃO GERALDO",
+    "Sigla": "FSG",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE SÃO JOSÉ",
+    "Sigla": "FSJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE SÃO JUDAS TADEU",
+    "Sigla": "FSJT",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE SÃO LUCAS",
+    "Sigla": "FSL",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADE SÃO LUIS DE FRANÇA",
+    "Sigla": "FSLF",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE SÃO LUÍS",
+    "Sigla": "FSL",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "FACULDADE SÃO MARCOS",
+    "Sigla": "FASAMAR",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FACULDADE SÃO MIGUEL",
+    "Sigla": "FSM",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADE SÃO SALVADOR",
+    "Sigla": "FSSAL",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE SÃO SEBASTIÃO",
+    "Sigla": "FASS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE SÃO TOMAZ DE AQUINO",
+    "Sigla": "FSTA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE TAMANDARÉ",
+    "Sigla": "FAT",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE TECSOMA",
+    "Sigla": "FATEC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE TIJUCUSSU",
+    "Sigla": "TIJUCUSSU",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE TOBIAS BARRETO",
+    "Sigla": "FTB",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "FACULDADE TRIÂNGULO MINEIRO",
+    "Sigla": "FTM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE TRÊS DE MAIO",
+    "Sigla": "SETREM",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADE TRÊS PONTAS",
+    "Sigla": "FATEP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE TÁHIRIH",
+    "Sigla": "FT",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "FACULDADE UBAENSE OZANAM COELHO",
+    "Sigla": "FAGOC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE UBERLANDENSE DE NÚCLEOS INTEGRADOS DE ENSINO SERVIÇO SOCIAL E APRENDIZAGEM",
+    "Sigla": "FAESSA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE UBS",
+    "Sigla": "FACULDADE UBS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE UNA DE CONTAGEM",
+    "Sigla": "FUNAC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE UNIDA DE CAMPINAS",
+    "Sigla": "FACUNICAMPS",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE UNIDA DE SUZANO",
+    "Sigla": "UNISUZ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE UNIGRAN CAPITAL",
+    "Sigla": "UNIGRAN CAPITAL",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADE UNILAGOS",
+    "Sigla": "UNILAGOS",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE UNIME DE CIÊNCIAS EXATAS E TECNOLÓGICAS",
+    "Sigla": "FCT",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE UNIME DE CIÊNCIAS SOCIAIS",
+    "Sigla": "FCS",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE UNISSA DE SARANDI",
+    "Sigla": "UNISSA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE UNIÃO ARARUAMA DE ENSINO S/S LTDA.",
+    "Sigla": "FAC-UNILAGOS",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADE UNIÃO BANDEIRANTE",
+    "Sigla": "FUBSJ",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADE UNIÃO DE CAMPO MOURÃO",
+    "Sigla": "UNICAMPO",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE UNIÃO DE GOYAZES",
+    "Sigla": "FUG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "FACULDADE VALE DO CRICARÉ",
+    "Sigla": "F.V.C.",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE VALE DO GORUTUBA",
+    "Sigla": "FAVAG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE VALE DO JAGUARIBE",
+    "Sigla": "FVJ",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE VALE DO SALGADO",
+    "Sigla": "FVS",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADE VASCO DA GAMA",
+    "Sigla": "FVG",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE VENDA NOVA DO IMIGRANTE",
+    "Sigla": "FAVENI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE VICENTINA - FAVI",
+    "Sigla": "FAVI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE VICTOR HUGO",
+    "Sigla": "FVH",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE VISCONDE DE CAIRÚ",
+    "Sigla": "FAVIV",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE VITORIANA DE TECNOLOGIA",
+    "Sigla": "FAVI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADE VIZINHANÇA VALE DO IGUAÇU",
+    "Sigla": "VIZIVALI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADE VÉRTICE",
+    "Sigla": "VÉRTICE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE XV DE AGOSTO",
+    "Sigla": "FAQ",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ZACARIAS DE GÓES",
+    "Sigla": "FAZAG",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE ZUMBI DOS PALMARES",
+    "Sigla": "FAZP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADE ÁREA 1",
+    "Sigla": "ÁREA 1",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADE ÚNICA DE IPATINGA",
+    "Sigla": "FUNIP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADE ÚNICA DE TIMÓTEO",
+    "Sigla": "FUNIT",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES ADAMANTINENSES INTEGRADAS",
+    "Sigla": "FAI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES ASSOCIADAS DE ARIQUEMES",
+    "Sigla": "FAAR",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADES ASSOCIADAS DE UBERABA",
+    "Sigla": "FAZU",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES ATIBAIA",
+    "Sigla": "FAAT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES CATHEDRAL BARRA DO GARÇAS",
+    "Sigla": "CATHEDRAL",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADES CATHEDRAL",
+    "Sigla": "CATHEDRAL",
+    "Uf": "RR"
+  },
+  {
+    "Universidade": "FACULDADES CEARENSES",
+    "Sigla": "Fac",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADES DA FUNDAÇÃO DE ENSINO DE MOCOCA",
+    "Sigla": "FAFEM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES DE CAMPINAS",
+    "Sigla": "FACAMP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES DE PINHAIS",
+    "Sigla": "FAPI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES DO CENTRO DO PARANÁ",
+    "Sigla": "UCP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES EST",
+    "Sigla": "EST",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADES FUTURÃO",
+    "Sigla": "CENTEFF",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS ADVENTISTAS DE MINAS GERAIS",
+    "Sigla": "FADMINAS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS ANTÔNIO EUFRÁSIO DE TOLEDO DE PRESIDENTE PRUDENTE",
+    "Sigla": "FIAETPP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS APARÍCIO CARVALHO",
+    "Sigla": "FIMCA",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS ASSOCIAÇÃO DE ENSINO DE SANTA CATARINA",
+    "Sigla": "FASSESC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS BARROS MELO",
+    "Sigla": "AESO",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS CAMPO-GRANDENSES",
+    "Sigla": "FIC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS CAMPOS SALLES",
+    "Sigla": "FICS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS CLARETIANAS",
+    "Sigla": "FIC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS CORAÇÃO DE JESUS",
+    "Sigla": "FAINC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DA TERRA DE BRASÍLIA",
+    "Sigla": "FTB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DA UNIÃO DE ENSINO SUPERIOR CERTO",
+    "Sigla": "UNICERTO",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DA UNIÃO EDUCACIONAL DO PLANALTO CENTRAL - FACIPLAC",
+    "Sigla": "FACIPLAC",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DA VITÓRIA DE SANTO ANTÃO",
+    "Sigla": "FAINTVISA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE ARIQUEMES",
+    "Sigla": "FIAR",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE BOTUCATU",
+    "Sigla": "UNIFAC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE CACOAL",
+    "Sigla": "UNESC",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE CARATINGA",
+    "Sigla": "FIC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE CIÊNCIAS HUMANAS SAÚDE E EDUCAÇÃO DE GUARULHOS",
+    "Sigla": "FG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE DIAMANTINO",
+    "Sigla": "FID",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE FERNANDÓPOLIS",
+    "Sigla": "FIFE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE ITARARÉ",
+    "Sigla": "FAFIT-FACIC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE JACAREPAGUÁ",
+    "Sigla": "FIJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE NAVIRAÍ",
+    "Sigla": "FINAV",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE OURINHOS",
+    "Sigla": "FIO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE PATOS",
+    "Sigla": "FIP",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE RIBEIRÃO PIRES",
+    "Sigla": "FIRP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE RONDONÓPOLIS",
+    "Sigla": "FAIR",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE SANTA FÉ DO SUL",
+    "Sigla": "FUNEC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE SÃO CARLOS",
+    "Sigla": "FADISC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE TANGARÁ DA SERRA",
+    "Sigla": "FITS",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE TAQUARA",
+    "Sigla": "FACCAT",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE TRÊS LAGOAS",
+    "Sigla": "AEMS",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE VITÓRIA",
+    "Sigla": "FDV",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DE VÁRZEA GRANDE",
+    "Sigla": "FIAVEC",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DESEMBARGADOR SÁVIO BRANDÃO",
+    "Sigla": "FAUSB",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DO BRASIL",
+    "Sigla": "FACBRASIL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DO EXTREMO SUL DA BAHIA",
+    "Sigla": "UNESULBAHIA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DO OESTE DE MINAS",
+    "Sigla": "FADOM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DO TAPAJÓS",
+    "Sigla": "FIT",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DO VALE DO RIBEIRA",
+    "Sigla": "FIVR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DOM PEDRO II",
+    "Sigla": "DOMPEDRO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS DOS CAMPOS GERAIS",
+    "Sigla": "CESCAGE",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS EINSTEIN DE LIMEIRA",
+    "Sigla": "FIEL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS ESPÍRITA",
+    "Sigla": "FIES",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS ESPÍRITOSANTENSE",
+    "Sigla": "FAESA",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS HÉLIO ALONSO",
+    "Sigla": "FACHA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS INTERAMERICANAS",
+    "Sigla": "FAITER",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS IPIRANGA",
+    "Sigla": "FAINTIPI",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS IPITANGA",
+    "Sigla": "UNIBAHIA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS MARIA IMACULADA",
+    "Sigla": "FIMI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS MARIA THEREZA",
+    "Sigla": "FAMATH",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS MATO-GROSSENSES DE CIÊNCIAS SOCIAIS E HUMANAS",
+    "Sigla": "ICE",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS OLGA METTIG",
+    "Sigla": "FAMETTIG",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS PADRE ALBINO",
+    "Sigla": "FIPA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS PITÁGORAS",
+    "Sigla": "FIP-MOC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS REGIONAIS DE AVARÉ",
+    "Sigla": "FIRA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS RIO BRANCO",
+    "Sigla": "FIRB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS RIO BRANCO",
+    "Sigla": "FRB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS RUI BARBOSA",
+    "Sigla": "FIRB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS SANTA CRUZ DE CURITIBA",
+    "Sigla": "FARESC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS SOARES DE OLIVEIRA",
+    "Sigla": "FISO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS STELLA MARIS DE ANDRADINA",
+    "Sigla": "FISMA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS SÉVIGNÉ",
+    "Sigla": "FAE SÉVIGNÉ",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS TERESA D´ÁVILA",
+    "Sigla": "FATEA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS URUBUPUNGÁ",
+    "Sigla": "FIU",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS VIANNA JÚNIOR",
+    "Sigla": "FIVJ",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES INTEGRADAS",
+    "Sigla": "UPIS",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "FACULDADES ITECNE DE CASCAVEL",
+    "Sigla": "ITECNE",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES MAGSUL",
+    "Sigla": "FAMAG",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "FACULDADES MILTON CAMPOS",
+    "Sigla": "FMC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES NORDESTE",
+    "Sigla": "Fanor",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "FACULDADES OSWALDO CRUZ",
+    "Sigla": "FOC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FACULDADES PEQUENO PRÍNCIPE",
+    "Sigla": "FPP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES SANTO AGOSTINHO",
+    "Sigla": "FSA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES SPEI",
+    "Sigla": "FACSPEI",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES UNIDAS DE PESQUISA CIÊNCIAS E SAÚDE LTDA",
+    "Sigla": "FAPEC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FACULDADES UNIDAS DO NORTE DE MINAS",
+    "Sigla": "Funorte",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "FACULDADES UNIDAS DO VALE DO ARAGUAIA",
+    "Sigla": "UNIVAR",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "FACULDADES UNIFICADAS DE CATAGUASES",
+    "Sigla": "FUC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES UNIFICADAS DE FOZ DO IGUAÇU",
+    "Sigla": "UNIFOZ",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FACULDADES UNIFICADAS DE GUARAPARI",
+    "Sigla": "FUG",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADES UNIFICADAS DE IÚNA",
+    "Sigla": "FUI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FACULDADES UNIFICADAS DE TEÓFILO OTONI",
+    "Sigla": "FUTO",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FACULDADES VALE DO CARANGOLA",
+    "Sigla": "FAVALEUEMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FAE CENTRO UNIVERSITÁRIO",
+    "Sigla": "FAE",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FAJOPA - FACULDADE JOÃO PAULO II",
+    "Sigla": "FAJOPA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FEFISA - FACULDADES INTEGRADAS DE SANTO ANDRÉ",
+    "Sigla": "FEFISA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FUNDAÇÃO ARMANDO ÁLVARES PENTEADO",
+    "Sigla": "FAAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FUNDAÇÃO ASSIS GURGACZ",
+    "Sigla": "FAG",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FUNDAÇÃO COMUNITÁRIA DE ENSINO SUPERIOR DE ITABIRA",
+    "Sigla": "FUNCESI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FUNDAÇÃO CÁSPER LÍBERO",
+    "Sigla": "FCL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FUNDAÇÃO DE ENSINO SUPERIOR DE CLEVELÂNDIA",
+    "Sigla": "FESC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "FUNDAÇÃO DE ENSINO SUPERIOR DE PASSOS",
+    "Sigla": "FESP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FUNDAÇÃO EDUCACIONAL ARAÇATUBA",
+    "Sigla": "FEA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FUNDAÇÃO EDUCACIONAL DE DIVINÓPOLIS",
+    "Sigla": "FUNEDI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FUNDAÇÃO ESCOLA DE COMÉRCIO ÁLVARES PENTEADO",
+    "Sigla": "FECAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FUNDAÇÃO ESCOLA DE SOCIOLOGIA E POLÍTICA DE SÃO PAULO",
+    "Sigla": "FESPSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FUNDAÇÃO GETÚLIO VARGAS",
+    "Sigla": "FGV",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FUNDAÇÃO GETÚLIO VARGAS",
+    "Sigla": "FGV",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FUNDAÇÃO INSTITUTO CAPIXABA DE PESQUISAS EM CONTABILIDADE ECONOMIA E FINANÇAS",
+    "Sigla": "FUCAPE",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "FUNDAÇÃO INSTITUTO TECNOLÓGICO DE OSASCO",
+    "Sigla": "FITO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "FUNDAÇÃO JOÃO PINHEIRO",
+    "Sigla": "FJP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FUNDAÇÃO MINEIRA DE EDUCAÇÃO E CULTURA",
+    "Sigla": "FUMEC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "FUNDAÇÃO TÉCNICO EDUCACIONAL SOUZA MARQUES",
+    "Sigla": "FTESM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "FUNDAÇÃO UNIVERSIDADE DO TOCANTINS",
+    "Sigla": "UNITINS",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO",
+    "Sigla": "UNIVASF",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO",
+    "Sigla": "UNIVASF",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "FUNDAÇÃO UNIVERSIDADE REGIONAL DE BLUMENAU",
+    "Sigla": "FURB",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "GRUPO EDUCACIONAL UNINTER",
+    "Sigla": "UNINTER",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "INSTITUIÇÃO DE ENSINO SUPERIOR DO ACRE",
+    "Sigla": "Iesacre",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "INSTITUIÇÃO DE ENSINO SÃO FRANCISCO",
+    "Sigla": "IESF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUIÇÃO TOLEDO DE ENSINO",
+    "Sigla": "ITE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO ADVENTISTA CRUZEIRO DO SUL",
+    "Sigla": "IACS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "INSTITUTO ADVENTISTA DE ENSINO DE SANTA CATARINA",
+    "Sigla": "IAESC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "INSTITUTO BAIANO DE ENSINO SUPERIOR",
+    "Sigla": "IBES",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "INSTITUTO BELO HORIZONTE DE ENSINO SUPERIOR",
+    "Sigla": "IBHES",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO BRASILEIRO DE MERCADO DE CAPITAIS",
+    "Sigla": "IBMEC",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO CAMILLO FILHO",
+    "Sigla": "ICF",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "INSTITUTO CENECISTA DE ENSINO SUPERIOR DE SANTO ÂNGELO",
+    "Sigla": "IESA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "INSTITUTO CIENTÍFICO DE ENSINO SUPERIOR E PESQUISA",
+    "Sigla": "Unicesp",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "INSTITUTO CUIABÁ DE ENSINO E CULTURA",
+    "Sigla": "ICEC",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS",
+    "Sigla": "ICB",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO DE CIÊNCIAS DA SAÚDE",
+    "Sigla": "ICS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO DE CIÊNCIAS EXATAS",
+    "Sigla": "UNEB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "INSTITUTO DE CIÊNCIAS JURÍDICAS E SOCIAIS PROFESSOR CAMILLO FILHO",
+    "Sigla": "ICF",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "Sigla": "UNEB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "INSTITUTO DE CIÊNCIAS SOCIAIS E HUMANAS",
+    "Sigla": "ICSH",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "INSTITUTO DE EDUCAÇÃO CENECISTA MARQUÊS DE HERVAL",
+    "Sigla": "MARQUÊS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "INSTITUTO DE EDUCAÇÃO E ENSINO SUPERIOR DE CAMPINAS",
+    "Sigla": "IESCAMP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO DE EDUCAÇÃO SUPERIOR DA PARAÍBA",
+    "Sigla": "IESP",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "INSTITUTO DE EDUCAÇÃO SUPERIOR DE BOITUVA",
+    "Sigla": "FIB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO DE EDUCAÇÃO SUPERIOR DE BRASÍLIA",
+    "Sigla": "IESB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "INSTITUTO DE EDUCAÇÃO SUPERIOR DE PATROCÍNIO",
+    "Sigla": "IESP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO DE EDUCAÇÃO SUPERIOR RAIMUNDO SÁ",
+    "Sigla": "IESRSA",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "INSTITUTO DE EDUCAÇÃO SUPERIOR UNYAHNA DE SALVADOR",
+    "Sigla": "IESUS",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO E PESQUISA OBJETIVO",
+    "Sigla": "IEPO",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO E PESQUISA",
+    "Sigla": "Insper",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR CENECISTA",
+    "Sigla": "INESC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DA FUPESP",
+    "Sigla": "IESF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DA GRANDE FLORIANÓPOLIS",
+    "Sigla": "IESGF",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DE LONDRINA - INESUL",
+    "Sigla": "INESUL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DE OLINDA",
+    "Sigla": "IESO",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DE PIEDADE",
+    "Sigla": "IESP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DE RIO VERDE",
+    "Sigla": "IESRIVER",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DE RONDÔNIA",
+    "Sigla": "IESUR",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DO RIO GRANDE DO NORTE",
+    "Sigla": "IESRN",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR DO SUL DO MARANHÃO",
+    "Sigla": "IESMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR E FORMAÇÃO AVANÇADA DE VITÓRIA",
+    "Sigla": "FAVI",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR FUCAPI",
+    "Sigla": "Cesf",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR INTEGRADO-IESI",
+    "Sigla": "FENORD",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR JOÃO ALFREDO DE ANDRADE",
+    "Sigla": "IJAA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR PRESIDENTE TANCREDO NEVES",
+    "Sigla": "IPTAN",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINO SUPERIOR SANTO ANTÔNIO",
+    "Sigla": "INESA",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "INSTITUTO DE ENSINOS SUPERIORES DA AMAZÔNIA",
+    "Sigla": "IESAM",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "INSTITUTO DE FILOSOFIA E TEOLOGIA DE GOIÁS",
+    "Sigla": "IFITEG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "INSTITUTO DE PÓSGRADUAÇÃO",
+    "Sigla": "IPOG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "INSTITUTO DE PÓSGRADUAÇÃO",
+    "Sigla": "IPOG",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "INSTITUTO EDUCACIONAL DE CASTRO",
+    "Sigla": "INEC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "INSTITUTO EDUCACIONAL VITÓRIA",
+    "Sigla": "INEVI",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL BAIANO",
+    "Sigla": "IF Baiano",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL CATARINENSE",
+    "Sigla": "IFC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DA BAHIA",
+    "Sigla": "IFBA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DA PARAÍBA",
+    "Sigla": "IFPB",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE ALAGOAS",
+    "Sigla": "Ifal",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE BRASÍLIA",
+    "Sigla": "IFB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DE SÃO PAULO",
+    "Sigla": "IFSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO NORTE DE MINAS GERAIS",
+    "Sigla": "IFNMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA SUL-RIO-GRANDENSE",
+    "Sigla": "IFSul",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE GOIÁS",
+    "Sigla": "IFG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE MATO GROSSO DO SUL",
+    "Sigla": "IFMS",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE MINAS GERAIS",
+    "Sigla": "IFMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE PERNAMBUCO",
+    "Sigla": "IFPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE RONDÔNIA",
+    "Sigla": "IFRO",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE RORAIMA",
+    "Sigla": "IFRR",
+    "Uf": "RR"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE SANTA CATARINA",
+    "Sigla": "IFSC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DE SERGIPE",
+    "Sigla": "IFS",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO ACRE",
+    "Sigla": "IFAC",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO AMAPÁ",
+    "Sigla": "Ifap",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO AMAZONAS",
+    "Sigla": "Ifam",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO CEARÁ",
+    "Sigla": "Ifce",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO ESPÍRITO SANTO",
+    "Sigla": "IFES",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO MARANHÃO",
+    "Sigla": "IFMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO MATO GROSSO",
+    "Sigla": "IFMT",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO NORTE DE MINAS",
+    "Sigla": "IFNM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO PARÁ",
+    "Sigla": "IFPA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO PIAUÍ",
+    "Sigla": "IFPI",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO RIO DE JANEIRO",
+    "Sigla": "IFRJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO RIO GRANDE DO NORTE",
+    "Sigla": "IFRN",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO RIO GRANDE DO SUL",
+    "Sigla": "IFRS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO SERTÃO PERNAMBUCANO",
+    "Sigla": "IFSertãoPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO SUDESTE DE MINAS",
+    "Sigla": "IFSM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO SUL DE MINAS",
+    "Sigla": "IFSUM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO TOCANTINS",
+    "Sigla": "IFTO",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL DO TRIÂNGULO MINEIRO",
+    "Sigla": "IFTM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL FARROUPILHA",
+    "Sigla": "IFFarroupilha",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL FLUMINENSE",
+    "Sigla": "IFF",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO FEDERAL GOIANO",
+    "Sigla": "IF Goiano",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "INSTITUTO FLORENCE DE ENSINO SUPERIOR",
+    "Sigla": "IFES",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "INSTITUTO INFNET RIO DE JANEIRO",
+    "Sigla": "INFNET",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO INFNET",
+    "Sigla": "INFNET",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO ITAPETININGANO DE ENSINO SUPERIOR",
+    "Sigla": "IIES",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO JORDÃO DE ARRUDA",
+    "Sigla": "INSJAR",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "INSTITUTO LUTERANO DE ENSINO SUPERIOR DE PORTO VELHO",
+    "Sigla": "ILES/ULBRA",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "INSTITUTO MANCHESTER PAULISTA DE ENSINO SUPERIOR",
+    "Sigla": "IMAPES",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO MATONENSE MUNICIPAL DE ENSINO SUPERIOR",
+    "Sigla": "IMMES",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO MAUÁ DE TECNOLOGIA",
+    "Sigla": "IMT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO MAUÁ DE TECNOLOGIA",
+    "Sigla": "IMT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO METODISTA BENNETT",
+    "Sigla": "BENNETT",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO METROPOLITANO DE ENSINO SUPERIOR",
+    "Sigla": "IMES",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO MILITAR DE ENGENHARIA",
+    "Sigla": "IME",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE ASSIS",
+    "Sigla": "IMESA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE BEBEDOURO VICTÓRIO CARDASSI",
+    "Sigla": "IMESB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE CATANDUVA",
+    "Sigla": "IMES Catanduva",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE SÃO MANUEL",
+    "Sigla": "IMESSM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO NACIONAL DE EDUCAÇÃO DE SURDOS",
+    "Sigla": "INES",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO NACIONAL DE ENSINO SUPERIOR E PÓS-GRADUAÇÃO PADRE GERVÁSIO",
+    "Sigla": "INAPÓS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO NACIONAL DE TELECOMUNICAÇÕES",
+    "Sigla": "INATEL",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO PARAIBANO DE ENSINO RENOVADO",
+    "Sigla": "INPER",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "INSTITUTO PAULISTA DE ENSINO",
+    "Sigla": "FIPEN",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO PERNAMBUCANO DE ENSINO SUPERIOR",
+    "Sigla": "IPESU",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO PERNAMBUCO DE ENSINO E CULTURA",
+    "Sigla": "IPEC",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SALESIANO DE FILOSOFIA",
+    "Sigla": "INSAF",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SANTO TOMÁS DE AQUINO",
+    "Sigla": "ISTA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE CIÊNCIAS APLICADAS - ISCA",
+    "Sigla": "ISCA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE CIÊNCIAS HUMANAS E SOCIAIS ANÍSIO TEIXEIRA",
+    "Sigla": "ISAT",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO ALBERT EINSTEIN",
+    "Sigla": "ISALBE",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO ALMEIDA RODRIGUES",
+    "Sigla": "ISEAR",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO ALVORADA PLUS",
+    "Sigla": "ISEAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO ANCHIETA",
+    "Sigla": "ISEA",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO ANTONINO FREIRE",
+    "Sigla": "ISEAF",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DE CAMPOS GERAIS",
+    "Sigla": "ISEC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DE FLORESTA",
+    "Sigla": "ISEF",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DE GOIANA",
+    "Sigla": "ISEG",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DE PESQUEIRA",
+    "Sigla": "ISEP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DE SALGUEIRO",
+    "Sigla": "ISES",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DE SÃO PAULO",
+    "Sigla": "SINGULARIDADES/ISESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DO CENTRO EDUCACIONAL NOSSA SENHORA AUXILIADORA",
+    "Sigla": "ISECENSA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DO MUNICÍPIO DE ITAPERUNA",
+    "Sigla": "ISEMI",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DO SERTÃO DO PAJEÚ",
+    "Sigla": "ISESP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO DO VALE DO JURUENA",
+    "Sigla": "AJES",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO ELVIRA DAYRELL",
+    "Sigla": "ISEED",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO FRANCISCANO NOSSA SENHORA DE FÁTIMA",
+    "Sigla": "FATIMA",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO ORÍGENES LESSA",
+    "Sigla": "ISEOL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO PAULO MARTINS",
+    "Sigla": "ISPAM",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO PROFESSOR ALDO MUYLAERT",
+    "Sigla": "ISEPAM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO PROFESSORA NAIR FORTES ABU-MERHY",
+    "Sigla": "ISEFOR",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO SANTA CRUZ",
+    "Sigla": "ISED",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO SÃO JUDAS TADEU",
+    "Sigla": "ISESJT",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO UNIÃO DAS AMÉRICAS",
+    "Sigla": "UNIAMÉRICA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE EDUCAÇÃO VERDE NORTE",
+    "Sigla": "FAVENORTE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE ENSINO E PESQUISA DE ITUIUTABA",
+    "Sigla": "ISEPI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE FILOSOFIA BERTHIER",
+    "Sigla": "IFIBE",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE TECNOLOGIA EM CIÊNCIAS DA COMPUTAÇÃO DE PARACAMBI",
+    "Sigla": "ISTParacambi",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE TECNOLOGIA EM CIÊNCIAS DA COMPUTAÇÃO DE PETRÓPOLIS",
+    "Sigla": "ISTCCP",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE TECNOLOGIA EM CIÊNCIAS DA COMPUTAÇÃO DO RIO DE JANEIRO",
+    "Sigla": "ISTRio",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DE TEOLOGIA APLICADA",
+    "Sigla": "Ista",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR DO LITORAL DO PARANÁ",
+    "Sigla": "ISULPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "INSTITUTO SUPERIOR E CENTRO EDUCACIONAL LUTERANO - BOM JESUS - IELUSC",
+    "Sigla": "BOM JESUS/IELUSC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "INSTITUTO SÃO PAULO DE FORMAÇÃO E ESPECIALIZAÇÃO PROFISSIONAL",
+    "Sigla": "UniSãopaulo",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO TAQUARITINGUENSE DE ENSINO SUPERIOR DR. ARISTIDES DE CARVALHO SCHLOBACH",
+    "Sigla": "ITES",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO TAUBATÉ DE ENSINO SUPERIOR",
+    "Sigla": "I.T.E.S.",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO TECNOLÓGICO DE AERONÁUTICA",
+    "Sigla": "ITA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "INSTITUTO TECNOLÓGICO DE CARATINGA",
+    "Sigla": "ITC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "INSTITUTO TECNOLÓGICO E DAS CIÊNCIAS SOCIAIS APLICADAS E DA SAÚDE DO CENTRO EDUC. N. SRª AUXILIADORA",
+    "Sigla": "ITCSAS/CENSA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "INSTITUTO TOCANTINENSE PRESIDENTE ANTÔNIO CARLOS DE PORTO NACIONAL",
+    "Sigla": "ITPAC de Porto Nacional",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "INSTITUTO TOCANTINENSE PRESIDENTE ANTÔNIO CARLOS",
+    "Sigla": "ITPAC",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "INSTITUTO UNIFICADO DE ENSINO SUPERIOR OBJETIVO",
+    "Sigla": "IUESO",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "MATER CHRISTI",
+    "Sigla": "Faculdade",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE CAMPINAS",
+    "Sigla": "PUCCampinas",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE GOIÁS",
+    "Sigla": "PUC",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
+    "Sigla": "PUCMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+    "Sigla": "PUCSP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ",
+    "Sigla": "PUCPR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO DE JANEIRO",
+    "Sigla": "PUCRIO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL",
+    "Sigla": "PUCRS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL",
+    "Sigla": "SENAI/CIMATEC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "SOCIEDADE EDUCACIONAL DE SANTA CATARINA",
+    "Sigla": "SOCIESC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "SOCIEDADE UNIVERSITÁRIA REDENTOR",
+    "Sigla": "REDENTOR",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "TREVISAN ESCOLA SUPERIOR DE NEGÓCIOS",
+    "Sigla": "TREVISAN",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIDADE DE ENSINO SUPERIOR DOM BOSCO",
+    "Sigla": "UNDB",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "UNIDADE DE ENSINO SUPERIOR EXPOENTE",
+    "Sigla": "UNIEXP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNISA  FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DO ALTO SÃO FRANCISCO",
+    "Sigla": "FASF",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ALTO VALE DO RIO DO PEIXE",
+    "Sigla": "UNIARP",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ANHANGUERA",
+    "Sigla": "Unianhanguera",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ANHEMBI MORUMBI",
+    "Sigla": "UAM",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE BANDEIRANTE DE SÃO PAULO",
+    "Sigla": "UNIBAN",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE BARRIGA VERDE",
+    "Sigla": "UNIBAVE",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE BRAZ CUBAS",
+    "Sigla": "UBC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CAMILO CASTELO BRANCO",
+    "Sigla": "UNICASTELO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CASTELO BRANCO",
+    "Sigla": "UCB",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CATÓLICA DE BRASÍLIA",
+    "Sigla": "UCB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CATÓLICA DE PELOTAS",
+    "Sigla": "UCPEL",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CATÓLICA DE PERNAMBUCO",
+    "Sigla": "UNICAP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CATÓLICA DE SALVADOR",
+    "Sigla": "UCSAL",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CATÓLICA DE SANTOS",
+    "Sigla": "UNISANTOS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CATÓLICA DOM BOSCO",
+    "Sigla": "UCDB",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE COMUNITÁRIA REGIONAL DE CHAPECÓ",
+    "Sigla": "UNOCHAPECÓ",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CRUZEIRO DO SUL",
+    "Sigla": "UNICSUL",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE CÂNDIDO MENDES",
+    "Sigla": "UCAM",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DA AMAZÔNIA",
+    "Sigla": "UNAMA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DA INTEGRAÇÃO INTERNACIONAL DA LUSOFONIA AFRO-BRASILEIRA",
+    "Sigla": "UNILAB",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DA REGIÃO DA CAMPANHA",
+    "Sigla": "URCAMP",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DA REGIÃO DE JOINVILLE",
+    "Sigla": "UNIVILLE",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE ALFENAS JOSÉ DO ROSÁRIO VELLANO",
+    "Sigla": "UNIFENAS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE BRASÍLIA",
+    "Sigla": "UnB",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE CAXIAS DO SUL",
+    "Sigla": "UCS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE CRUZ ALTA",
+    "Sigla": "UNICRUZ",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE CUIABÁ",
+    "Sigla": "UNIC",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE FORTALEZA",
+    "Sigla": "Unifor",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE FRANCA",
+    "Sigla": "UNIFRAN",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE GUARULHOS",
+    "Sigla": "UNG",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE ITAÚNA",
+    "Sigla": "UIT",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE MARÍLIA",
+    "Sigla": "UNIMAR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE MOGI DAS CRUZES",
+    "Sigla": "UMC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE PASSO FUNDO",
+    "Sigla": "UPF",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE RIBEIRÃO PRETO",
+    "Sigla": "UNAERP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE RIO VERDE2",
+    "Sigla": "FESURV",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE SANTA CRUZ DO SUL",
+    "Sigla": "UNISC",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE SOROCABA",
+    "Sigla": "UNISO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE SÃO PAULO",
+    "Sigla": "USP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE TAUBATÉ",
+    "Sigla": "UNITAU",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DE UBERABA",
+    "Sigla": "UNIUBE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO CEUMA - UNICEUMA",
+    "Sigla": "UNICEUMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO CONTESTADO",
+    "Sigla": "UNC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO ESTADO DA BAHIA",
+    "Sigla": "UNEB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO ESTADO DE MATO GROSSO",
+    "Sigla": "UNEMAT",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO ESTADO DE MINAS GERAIS",
+    "Sigla": "UEMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO ESTADO DE SANTA CATARINA",
+    "Sigla": "UDESC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO ESTADO DO AMAZONAS",
+    "Sigla": "Uea",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO ESTADO DO PARÁ",
+    "Sigla": "UEPA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO",
+    "Sigla": "UERJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE",
+    "Sigla": "UERN",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO EXTREMO SUL CATARINENSE",
+    "Sigla": "UNESC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO GRANDE ABC",
+    "Sigla": "UniABC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO GRANDE RIO PROFESSOR JOSÉ DE SOUZA HERDY",
+    "Sigla": "UNIGRANRIO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO GRANDE RIO",
+    "Sigla": "UNIGRANRIO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO NORTE DO PARANÁ",
+    "Sigla": "UNOPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO OESTE DE SANTA CATARINA",
+    "Sigla": "UNOESC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO OESTE PAULISTA",
+    "Sigla": "UNOESTE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO PLANALTO CATARINENSE",
+    "Sigla": "UNIPLAC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO SAGRADO CORAÇÃO",
+    "Sigla": "USC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO SUL DE SANTA CATARINA",
+    "Sigla": "UNISUL",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO VALE DO ITAJAÍ",
+    "Sigla": "UNIVALI",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO VALE DO PARAÍBA",
+    "Sigla": "UNIVAP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO VALE DO RIO DOS SINOS",
+    "Sigla": "UNISINOS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE DO VALE DO SAPUCAÍ",
+    "Sigla": "UNIVAS",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ELETRÔNICA DO BRASIL",
+    "Sigla": "UEB",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DA PARAÍBA",
+    "Sigla": "UEPB",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DA ZONA OESTE",
+    "Sigla": "UEZO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE ALAGOAS",
+    "Sigla": "Uneal",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "Sigla": "UNICAMP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SAÚDE DE ALAGOAS",
+    "Sigla": "Uncisal",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA",
+    "Sigla": "UEFS",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE GOIÁS",
+    "Sigla": "UEG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+    "Sigla": "UEL",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE MARINGÁ",
+    "Sigla": "UEM",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE MONTES CLAROS",
+    "Sigla": "UNIMONTES",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA",
+    "Sigla": "UEPG",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE RORAIMA",
+    "Sigla": "UERR",
+    "Uf": "RR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
+    "Sigla": "UESC",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO AMAPÁ",
+    "Sigla": "Ueap",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO CEARÁ",
+    "Sigla": "Uece",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO CENTROOESTE",
+    "Sigla": "UNICENTRO",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO MARANHÃO",
+    "Sigla": "UEMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO MATO GROSSO DO SUL",
+    "Sigla": "UEMS",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO NORTE DO PARANÁ",
+    "Sigla": "UENP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE",
+    "Sigla": "UENF",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ",
+    "Sigla": "UNIOESTE",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO PARANÁ",
+    "Sigla": "UNESPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO PIAUÍ",
+    "Sigla": "UESPI",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL",
+    "Sigla": "UERGS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA",
+    "Sigla": "UESB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL PAULISTA JÚLIO DE MESQUITA FILHO",
+    "Sigla": "UNESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTADUAL VALE DO ACARAÚ",
+    "Sigla": "Uva",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTÁCIO DE SÁ",
+    "Sigla": "UNESA",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTÁCIO DE SÁ",
+    "Sigla": "UNESA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE ESTÁCIO DE SÁ",
+    "Sigla": "UNESA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE EVANGELICA",
+    "Sigla": "UniEvangelica",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DA BAHIA",
+    "Sigla": "UFBA",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DA FRONTEIRA DO SUL",
+    "Sigla": "UFFS",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DA FRONTEIRA DO SUL",
+    "Sigla": "UFFS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DA FRONTEIRA SUL",
+    "Sigla": "UFFS",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DA GRANDE DOURADOS",
+    "Sigla": "UFGD",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DA INTEGRAÇÃO LATINOAMERICANA",
+    "Sigla": "UNILA",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DA PARAÍBA",
+    "Sigla": "UFPB",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE ALAGOAS",
+    "Sigla": "Ufal",
+    "Uf": "AL"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE ALFENAS",
+    "Sigla": "UNIFAL",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE",
+    "Sigla": "UFCG",
+    "Uf": "PB"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE",
+    "Sigla": "UFCSPA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE GOIÁS",
+    "Sigla": "UFG",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE INTEGRAÇÃO LUSOAFRO",
+    "Sigla": "UNILAB",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE ITAJUBÁ",
+    "Sigla": "UNIFEI",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+    "Sigla": "UFJF",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE LAVRAS",
+    "Sigla": "UFLA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE MATO GROSSO",
+    "Sigla": "UFMT",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+    "Sigla": "UFMG",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE OURO PRETO",
+    "Sigla": "UFOP",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE PELOTAS",
+    "Sigla": "UFPEL",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+    "Sigla": "UFPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE RONDÔNIA",
+    "Sigla": "UNIR",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE RORAIMA",
+    "Sigla": "UFRR",
+    "Uf": "RR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "Sigla": "UFSC",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE SANTA MARIA",
+    "Sigla": "UFSM",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE SERGIPE",
+    "Sigla": "UFS",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE SÃO CARLOS",
+    "Sigla": "UFSCAR",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE SÃO JOÃO DELREI",
+    "Sigla": "UFSJ",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE SÃO PAULO",
+    "Sigla": "UNIFESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE UBERLÂNDIA",
+    "Sigla": "UFU",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DE VIÇOSA",
+    "Sigla": "UFV",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO ABC",
+    "Sigla": "UFABC",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO ACRE",
+    "Sigla": "UFAC",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO AMAPÁ",
+    "Sigla": "Unifap",
+    "Uf": "AP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO AMAZONAS",
+    "Sigla": "Ufam",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO CEARÁ",
+    "Sigla": "UFC",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO",
+    "Sigla": "UFES",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO",
+    "Sigla": "UNIRIO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO MARANHÃO",
+    "Sigla": "UFMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO MATO GROSSO DO SUL",
+    "Sigla": "UFMS",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO OESTE DO PARÁ",
+    "Sigla": "UFOPA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO PAMPA",
+    "Sigla": "UNIPAMPA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO PANTANAL",
+    "Sigla": "UFPAN",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO PARANÁ",
+    "Sigla": "UFPR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO PARÁ",
+    "Sigla": "UFPA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO PIAUÍ",
+    "Sigla": "UFPI",
+    "Uf": "PI"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA",
+    "Sigla": "UFRB",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+    "Sigla": "UFRJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "Sigla": "UFRN",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+    "Sigla": "UFRGS",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+    "Sigla": "FURG",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO TOCANTINS",
+    "Sigla": "UFT",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO",
+    "Sigla": "UFTM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI",
+    "Sigla": "UFVJM",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL FLUMINENSE",
+    "Sigla": "UFF",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA",
+    "Sigla": "UFRA",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+    "Sigla": "UFRPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+    "Sigla": "UFRPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+    "Sigla": "UFRPE",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO",
+    "Sigla": "UFRRJ",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEDERAL RURAL DO SEMIÁRIDO",
+    "Sigla": "UFERSA",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FEEVALE",
+    "Sigla": "FEEVALE",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE FUMEC",
+    "Sigla": "FUMEC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE GAMA E SOUZA",
+    "Sigla": "UGS",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE GAMA FILHO",
+    "Sigla": "UGF",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE IBIRAPUERA",
+    "Sigla": "UNIB",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE IGUAÇU",
+    "Sigla": "UNIG",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE LUTERANA DO BRASIL",
+    "Sigla": "ULBRA",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "UNIVERSIDADE LUTERANA DO BRASIL",
+    "Sigla": "ULBRA",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE LUTERANA DO BRASIL",
+    "Sigla": "ULBRA",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "UNIVERSIDADE LUTERANA DO BRASIL",
+    "Sigla": "ULBRA",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE LUTERANA DO BRASIL",
+    "Sigla": "ULBRA",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE METODISTA DE PIRACICABA",
+    "Sigla": "UNIMEP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE METODISTA DE SÃO PAULO",
+    "Sigla": "UMESP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE METROPOLITANA DE SANTOS",
+    "Sigla": "UNIMES",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL",
+    "Sigla": "USCS",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE MUNICIPAL DE SÃO JOSÉ",
+    "Sigla": "USJ",
+    "Uf": "SC"
+  },
+  {
+    "Universidade": "UNIVERSIDADE NILTON LINS",
+    "Sigla": "UNINILTONLINS",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "UNIVERSIDADE NORTE DO PARANÁ",
+    "Sigla": "UNOPAR",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "UNIVERSIDADE NORTE DO PARANÁ",
+    "Sigla": "UNOPAR",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "UNIVERSIDADE NORTE DO PARANÁ",
+    "Sigla": "UNOPAR",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "UNIVERSIDADE NORTE DO PARANÁ",
+    "Sigla": "UNOPAR",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE NOVE DE JULHO",
+    "Sigla": "UNINOVE",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PARA O DESENVOLVIMENTO DO ESTADO E REGIÃO DO PANTANAL",
+    "Sigla": "UNIDERP",
+    "Uf": "MS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PARANAENSE",
+    "Sigla": "UNIPAR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PAULISTA",
+    "Sigla": "UNIP",
+    "Uf": "DF"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PAULISTA",
+    "Sigla": "UNIP",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PAULISTA",
+    "Sigla": "UNIP",
+    "Uf": "PA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PAULISTA",
+    "Sigla": "UNIP",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PAULISTA",
+    "Sigla": "UNIP",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PAULISTA",
+    "Sigla": "Unip",
+    "Uf": "AM"
+  },
+  {
+    "Universidade": "UNIVERSIDADE POSITIVO",
+    "Sigla": "UP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE POTIGUAR",
+    "Sigla": "UNP",
+    "Uf": "RN"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PRESBITERIANA MACKENZIE",
+    "Sigla": "MACK",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE PRESIDENTE ANTÔNIO CARLOS",
+    "Sigla": "UNIPAC",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE REGIONAL DO CARIRI",
+    "Sigla": "Urca",
+    "Uf": "CE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL",
+    "Sigla": "UNIJUÍ",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES",
+    "Sigla": "URI",
+    "Uf": "RS"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SALGADO DE OLIVEIRA",
+    "Sigla": "UNIVERSO",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SALGADO DE OLIVEIRA",
+    "Sigla": "UNIVERSO",
+    "Uf": "GO"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SALGADO DE OLIVEIRA",
+    "Sigla": "UNIVERSO",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SALGADO DE OLIVEIRA",
+    "Sigla": "UNIVERSO",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SALGADO DE OLIVEIRA",
+    "Sigla": "UNIVERSO",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SALVADOR",
+    "Sigla": "UNIFACS",
+    "Uf": "BA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SANTA CECÍLIA",
+    "Sigla": "UNISANTA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SANTA ÚRSULA",
+    "Sigla": "USU",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SANTO AMARO",
+    "Sigla": "UNISA",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SEVERINO SOMBRA",
+    "Sigla": "USS",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SÃO FRANCISCO",
+    "Sigla": "USF",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SÃO JUDAS TADEU",
+    "Sigla": "USJT",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE SÃO MARCOS",
+    "Sigla": "UNIMARCO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+    "Sigla": "UTFPR",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE TIRADENTES",
+    "Sigla": "Unit",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE TIRADENTES",
+    "Sigla": "UnitEAD",
+    "Uf": "SE"
+  },
+  {
+    "Universidade": "UNIVERSIDADE TUIUTI DO PARANÁ",
+    "Sigla": "UTP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIVERSIDADE VALE DO RIO DOCE",
+    "Sigla": "UNIVALE",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIVERSIDADE VEIGA DE ALMEIDA",
+    "Sigla": "UVA",
+    "Uf": "RJ"
+  },
+  {
+    "Universidade": "UNIVERSIDADE VILA VELHA",
+    "Sigla": "UVV",
+    "Uf": "ES"
+  },
+  {
+    "Universidade": "UNIVERSIDADE VIRTUAL DO MARANHÃO",
+    "Sigla": "UNIVIMA",
+    "Uf": "MA"
+  },
+  {
+    "Universidade": "UNIVERSIDADE Á DISTANCIA DO NORTE DO PARANÁ",
+    "Sigla": "UNOPAR",
+    "Uf": "RO"
+  },
+  {
+    "Universidade": "UNIVERSIDADES UNIDAS DO VALE DO ARAGUAIABARRA DO GARÇAS",
+    "Sigla": "UNIVAR",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "UNIÃO DAS ESCOLAS DO GRUPO FAIMI DE EDUCAÇÃO",
+    "Sigla": "FAIMI",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIÃO DAS FACULDADES DOS GRANDES LAGOS",
+    "Sigla": "UNILAGO",
+    "Uf": "SP"
+  },
+  {
+    "Universidade": "UNIÃO DE ENSINO DO SUDOESTE DO PARANÁ",
+    "Sigla": "UNISEP",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIÃO DE ENSINO SUPERIOR DE NOVA MUTUM",
+    "Sigla": "UNINOVA",
+    "Uf": "MT"
+  },
+  {
+    "Universidade": "UNIÃO DE ENSINO SUPERIOR DE VIÇOSA",
+    "Sigla": "UNIVIÇOSA",
+    "Uf": "MG"
+  },
+  {
+    "Universidade": "UNIÃO DE ESCOLAS SUPERIORES DA FUNESO",
+    "Sigla": "UNESF",
+    "Uf": "PE"
+  },
+  {
+    "Universidade": "UNIÃO DINÂMICA DE FACULDADES CATARATAS",
+    "Sigla": "UDC",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIÃO EDUCACIONAL DE ENSINO SUPERIOR DO MÉDIO TOCANTINS",
+    "Sigla": "UNEST",
+    "Uf": "TO"
+  },
+  {
+    "Universidade": "UNIÃO EDUCACIONAL DO NORTE",
+    "Sigla": "Uninorte",
+    "Uf": "AC"
+  },
+  {
+    "Universidade": "UNIÃO LATINO-AMERICADA DE TECNOLOGIA",
+    "Sigla": "ULT",
+    "Uf": "PR"
+  },
+  {
+    "Universidade": "UNIÃO METROPOLITANA DE EDUCAÇÃO E CULTURA",
+    "Sigla": "UNIME",
+    "Uf": "BA"
+  }
+]
