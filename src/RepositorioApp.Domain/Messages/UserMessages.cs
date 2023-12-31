@@ -13,7 +13,7 @@ namespace RepositorioApp.Domain.Messages
         public const string SelfRemoveErro = "Não é permitido auto exclusão";
 
         public const string EmailIsUsed = "Este e-mail já está sendo usado";
-
+        
         public static string EmailAlreadyUsedError(string email)
         {
             return $"Já existe um usuário com e-mail {email} cadastrado";
@@ -86,7 +86,7 @@ namespace RepositorioApp.Domain.Messages
         {
             public const string CodeRequiredError = "Código é obrigatório";
             public const string CodeInvalidError = "Código inválido";
-            public const string SuccessMessage = "Senha alterada com sucesso";
+            public const string SuccessMessage = "Conta ativada com sucesso!";
         }
 
         public static class _Avatar
@@ -109,6 +109,8 @@ namespace RepositorioApp.Domain.Messages
         
         public static class _TwoFactor
         {
+            public const string MaxRequestByRecovery = "Você já realizou essa solicitação, aguarde para realizar novamente.";
+            
             public static class _Code
             {
                 public const string RequiredError = "Código de autenticação é obrigatório";

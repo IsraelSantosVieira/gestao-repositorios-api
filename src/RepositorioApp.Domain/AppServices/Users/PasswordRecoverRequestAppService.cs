@@ -33,7 +33,7 @@ namespace RepositorioApp.Domain.AppServices.Users
 
             if (user == null) return result;
 
-            var pedidoDeRecuperacaoDeSenha = user.GeneratePasswordRecoverRequest();
+            var recoverRequest = user.GeneratePasswordRecoverRequest();
 
             _userRepository.Modify(user);
 
@@ -41,7 +41,7 @@ namespace RepositorioApp.Domain.AppServices.Users
 
             var vm = new PasswordRecoverRequestEmailVm
             {
-                Code = pedidoDeRecuperacaoDeSenha.Code,
+                Code = recoverRequest.Code,
                 Email = user.Email,
                 Name = user.FirstName
             };

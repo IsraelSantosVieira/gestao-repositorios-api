@@ -1,4 +1,6 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Linq;
+using System.Threading.Tasks;
 using Hangfire;
 using RepositorioApp.Domain.AppServices.Users.Commands;
 using RepositorioApp.Domain.AppServices.Users.Contracts;
@@ -32,6 +34,21 @@ namespace RepositorioApp.Domain.AppServices.Users
             if (user is null)
             {
                 throw new DomainException(UserMessages.NotExistsError);
+            }
+
+            var lastRequest = user.PasswordRecoverRequests
+                .FirstOrDefault(x => !x.UsedIn.HasValue);
+
+            if (lastRequest != null)
+            {
+                TimeSpan timeDifference = DateTime.Now - lastRequest.CreatedAt;
+
+                if (timeDifference.TotalMinutes <= 5)
+                {
+                    throw new DomainException(UserMessages._TwoFactor.MaxRequestByRecovery);
+                }
+                
+                lastRequest.UsePasswordRecoverRequest();
             }
 
             var generatePasswordRecoverRequest = user.GeneratePasswordRecoverRequest();

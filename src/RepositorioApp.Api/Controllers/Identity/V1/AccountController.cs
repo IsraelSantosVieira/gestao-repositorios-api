@@ -15,9 +15,8 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
     [CustomRoute(AppConstants.IdentityApiV1Key, "account")]
     public class AccountController : BaseIdentityV1Controller
     {
-
         [OkResponseType(typeof(EnvelopDataResult<PasswordRecoverResult>))]
-        [BadRequestResponseTypeType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, InternalServerErrorResponseType]
         [AllowAnonymous]
         [HttpPost("recover-password")]
         public async Task<IActionResult> RecoverPassword(
@@ -30,7 +29,7 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         }
 
         [OkResponseType(typeof(EnvelopDataResult<PasswordRecoverResult>))]
-        [BadRequestResponseTypeType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, InternalServerErrorResponseType]
         [AllowAnonymous]
         [HttpPost("user-activate")]
         public async Task<IActionResult> UserActivate(
@@ -43,7 +42,7 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         }
 
         [OkResponseType(typeof(EnvelopDataResult<ChangeOrResetPasswordResult>))]
-        [BadRequestResponseTypeType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, InternalServerErrorResponseType]
         [AllowAnonymous]
         [HttpPost("reset-password")]
         public async Task<IActionResult> ResetPassword(
@@ -56,7 +55,7 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         }
 
         [OkResponseType(typeof(EnvelopDataResult<ChangeOrResetPasswordResult>))]
-        [BadRequestResponseTypeType] [UnauthorizedResponseType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, UnauthorizedResponseType, InternalServerErrorResponseType]
         [Authorize(AppPolices.Authenticated)]
         [HttpPost("change-password")]
         public async Task<IActionResult> ChangePassword(
@@ -69,7 +68,7 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         }
 
         [OkResponseType(typeof(EnvelopDataResult<UpdateAvatarResult>))]
-        [BadRequestResponseTypeType] [UnauthorizedResponseType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, UnauthorizedResponseType, InternalServerErrorResponseType]
         [Authorize(AppPolices.Authenticated)]
         [HttpPost("avatar")]
         public async Task<IActionResult> Avatar(
@@ -82,7 +81,7 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         }
 
         [OkResponseType(typeof(EnvelopDataResult<UpdateAvatarResult>))]
-        [BadRequestResponseTypeType] [UnauthorizedResponseType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, UnauthorizedResponseType, InternalServerErrorResponseType]
         [Authorize(AppPolices.Authenticated)]
         [HttpDelete("avatar")]
         public async Task<IActionResult> RemoveAvatar([FromServices] IRemoveAvatarAppService appService)
@@ -91,7 +90,7 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         }
 
         [OkResponseType(typeof(EnvelopDataResult<NoContentResult>))]
-        [BadRequestResponseTypeType] [UnauthorizedResponseType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, UnauthorizedResponseType, InternalServerErrorResponseType]
         [Authorize(AppPolices.Authenticated)]
         [HttpDelete("user")]
         public async Task<IActionResult> Remove([FromServices] IRemoveUserService service)
@@ -101,7 +100,7 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         }
 
         [OkResponseType(typeof(EnvelopDataResult<UserVm>))]
-        [BadRequestResponseTypeType] [UnauthorizedResponseType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, UnauthorizedResponseType, InternalServerErrorResponseType]
         [Authorize(AppPolices.Authenticated)]
         [HttpPost("profile")]
         public async Task<IActionResult> Profile(
@@ -119,30 +118,10 @@ namespace RepositorioApp.Api.Controllers.Identity.V1
         /// <param name="appService"></param>
         /// <param name="command"></param>
         /// <returns></returns>
-        [BadRequestResponseTypeType] [InternalServerErrorResponseType]
+        [BadRequestResponseTypeType, InternalServerErrorResponseType]
         [AllowAnonymous]
         [HttpPost("resend-activation-code")]
         public async Task<IActionResult> ResendActivationCode(
-            [FromServices] IManagerUserAppService appService,
-            [FromBody] ActivationCodeCmd command)
-        {
-            if (command == null) return UnprocessableEntityResponse();
-
-            await appService.ResendActivationCode(command);
-
-            return NoContent();
-        }
-
-        /// <summary>
-        ///     Continua a ativação da conta
-        /// </summary>
-        /// <param name="appService"></param>
-        /// <param name="command"></param>
-        /// <returns></returns>
-        [BadRequestResponseTypeType] [InternalServerErrorResponseType]
-        [AllowAnonymous]
-        [HttpPost("proceed-activate-code")]
-        public async Task<IActionResult> ProceedActivateCode(
             [FromServices] IManagerUserAppService appService,
             [FromBody] ActivationCodeCmd command)
         {

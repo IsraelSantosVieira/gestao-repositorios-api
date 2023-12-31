@@ -4,11 +4,10 @@
 }
 
 .topbar-wrapper > a > img {
-    /*content: url('../assets/images/logo.png') !important;*/
+    content: url('../assets/images/logo-2.png') !important;
 }
 
 .topbar-wrapper > a:after {
-    /*content:  url('/assets/images/logo.png') !important;*/
     content: 'RepositorioApp' !important;
 }
 

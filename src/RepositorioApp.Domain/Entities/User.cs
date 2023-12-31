@@ -25,6 +25,8 @@ namespace RepositorioApp.Domain.Entities
             Avatar = avatar;
             
             Active = true;
+            AcceptedTerm = true;
+            PendingRegisterInformation = true;
             CreatedAt = DateTime.Now;
         }
         
@@ -147,29 +149,35 @@ namespace RepositorioApp.Domain.Entities
             return this;
         }
 
-        public User ResetPasswordWithCode(string codigo, string senha)
+        public User ResetPasswordWithCode(string code, string password)
         {
             var passwordRecoverRequest = PasswordRecoverRequests
-                .FirstOrDefault(x => x.Code == codigo)?
+                .FirstOrDefault(x => x.Code == code)?
                 .UsePasswordRecoverRequest();
 
             if (passwordRecoverRequest == null)
                 throw new DomainException(UserMessages._ResetPassword.CodeInvalidError);
 
-            Password = PasswordUtils.Hash(senha);
+            Password = PasswordUtils.Hash(password);
             return this;
         }
 
-        public User UserActivateWithCode(string codigo, string senha)
+        public User UserActivateWithCode(string code, string password)
         {
             var activateUserRequest = PasswordRecoverRequests
-                .FirstOrDefault(x => x.Code == codigo)?
+                .FirstOrDefault(x => x.Code == code)?
                 .UsePasswordRecoverRequest();
 
             if (activateUserRequest == null)
                 throw new DomainException(UserMessages._ResetPassword.CodeInvalidError);
 
-            Password = PasswordUtils.Hash(senha);
+            PendingRegisterInformation = false;
+
+            if (!string.IsNullOrEmpty(password))
+            {
+                Password = PasswordUtils.Hash(password);
+            }
+            
             return this;
         }
 

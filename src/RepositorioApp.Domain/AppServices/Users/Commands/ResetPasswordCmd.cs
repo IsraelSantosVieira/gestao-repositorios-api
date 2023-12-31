@@ -13,6 +13,6 @@ namespace RepositorioApp.Domain.AppServices.Users.Commands
         public string NewPassword { get; set; }
 
         [Required]
-        public string NewPasswordConfirmation { get; set; }
+        public string PasswordConfirm { get; set; }
     }
 }

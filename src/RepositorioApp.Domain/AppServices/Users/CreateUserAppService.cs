@@ -29,6 +29,11 @@ namespace RepositorioApp.Domain.AppServices.Users
 
         public async Task<UserVm> Create(CreateUserCmd command)
         {
+            if (!command.Agreements)
+            {
+                throw new DomainException(UserMessages.AcceptTermRequired);
+            }
+            
             var newUser = new User(
                 command.Email.ToLower(),
                 command.FirstName,
